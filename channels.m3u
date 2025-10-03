@@ -173,8 +173,6 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302738
 http://200.115.120.1:8000/play/ca065/index.m3u8
 #EXTINF:-1, PASIONES OP 3
 http://200.115.98.26:9000/play/a02b/index.m3u8
-#EXTINF:-1, TLNOVELAS
-http://user.tvcluboficial.com/live/m/m/94.m3u8
 #EXTINF:-1, UNIVISION TLNOVELAS
 http://user.tvcluboficial.com/live/m/m/413.m3u8
 #EXTINF:-1, TELEMUNDO INTERNACIONAL OP2
@@ -189,6 +187,8 @@ http://user.tvcluboficial.com/live/m/m/391.m3u8
 http://190.60.37.154:45000/play/a04a/index.m3u8
 #EXTINF:-1, ANIMAL PLANET
 http://104.238.205.28:8989/278617_.m3u8
+#EXTINF:-1, H2
+http://user.tvcluboficial.com/live/m/m/61.m3u8
 #EXTINF:-1, H2 OP2
 http://200.115.98.26:9000/play/a02l/index.m3u8
 #EXTINF:-1, DISCOVERY CHANNEL MX
@@ -199,14 +199,10 @@ http://200.115.98.26:9000/play/a00c/index.m3u8
 http://190.60.37.154:45000/play/a059/index.m3u8
 #EXTINF:-1, DISCOVERY TURBO
 http://190.60.37.154:45000/play/a04s/index.m3u8
-#EXTINF:-1, DISCOVERY WORLD
-http://user.tvcluboficial.com/live/m/m/187.m3u8
 #EXTINF:-1, DISCOVERY ID
 http://user.tvcluboficial.com/live/m/m/68.m3u8
 #EXTINF:-1, DISCOVERY ID OP2
 http://190.60.37.154:45000/play/a044/index.m3u8
-#EXTINF:-1, TOONCAST
-http://user.tvcluboficial.com/live/m/m/95.m3u8
 #EXTINF:-1, TOONCAST OP 2
 http://200.115.120.1:8000/play/ca090/index.m3u8
 #EXTINF:-1, DISCOVERY KIDS MX
@@ -227,8 +223,8 @@ http://user.tvcluboficial.com/live/m/m/79.m3u8
 http://190.60.37.154:45000/play/a04r/index.m3u8
 #EXTINF:-1, DISNEY JR
 http://190.60.37.154:45000/play/a03a/index.m3u8
-#EXTINF:-1, HBO2
-http://user.tvcluboficial.com/live/m/m/300.m3u8
+#EXTINF:-1, HBO OP2
+http://user.tvcluboficial.com/live/m/m/62.m3u8
 #EXTINF:-1, HBO2 OP2
 http://200.115.98.26:9000/play/a03b/index.m3u8
 #EXTINF:-1, HBO PLUS
@@ -263,14 +259,14 @@ http://user.tvcluboficial.com/live/m/m/83.m3u8
 http://190.60.37.154:45000/play/a03j/index.m3u8
 #EXTINF:-1, AMC
 http://user.tvcluboficial.com/live/m/m/183.m3u8
+#EXTINF:-1, PARAMOUNT
+http://user.tvcluboficial.com/live/m/m/200.m3u8
 #EXTINF:-1, PARAMOUNT OP 2
 http://200.115.120.1:8000/play/ca115/index.m3u8
 #EXTINF:-1, CINEMAX
 http://user.tvcluboficial.com/live/m/m/20.m3u8
 #EXTINF:-1, CINEMAX OP2
 http://190.60.37.154:45000/play/a04l/index.m3u8
-#EXTINF:-1, CINECANAL
-http://user.tvcluboficial.com/live/m/m/18.m3u8
 #EXTINF:-1, GOLDEN
 http://200.115.120.1:8000/play/ca024/index.m3u8
 #EXTINF:-1, GOLDEN EDGE
@@ -337,6 +333,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fed840a2764000720d966/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b402df8c-cd24-11eb-993e-0242ac110002&sid=b402df8c-cd24-11eb-993e-0242ac110002&userId=
 #EXTINF:-1, PLUTO TV NICK CONCIERTOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=0098c5c8-cd24-11eb-98a9-0242ac110002&sid=0098c5c8-cd24-11eb-98a9-0242ac110002&userId=
+#EXTINF:-1, ESPN
+http://user.tvcluboficial.com/live/m/m/34.m3u8
 #EXTINF:-1, ESPN 2 OP 2
 http://200.115.120.1:8000/play/ca042/index.m3u8
 #EXTINF:-1, FOX SPORTS PREMIUM
@@ -351,6 +349,12 @@ http://190.60.37.154:45000/play/a03o/index.m3u8
 http://190.60.37.154:45000/play/a03o/index.m3u8
 #EXTINF:-1, FUTBOL NETWORK
 https://59d39900ebfb8.streamlock.net:443/8312/8312/playlist.m3u8
+#EXTINF:-1, DIRECTV SPORTS
+http://user.tvcluboficial.com/live/m/m/259.m3u8
+#EXTINF:-1, DIRECTV SPORTS 2
+http://user.tvcluboficial.com/live/m/m/667.m3u8
+#EXTINF:-1, DIRECTV SPORTS PLUS
+http://user.tvcluboficial.com/live/m/m/935.m3u8
 #EXTINF:-1, GOLTV
 http://200.115.98.26:9000/play/a00q/index.m3u8
 #EXTINF:-1, TNT SPORTS
