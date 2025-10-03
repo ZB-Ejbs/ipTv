@@ -237,8 +237,6 @@ http://200.115.120.1:8000/play/ca082/index.m3u8
 http://200.115.120.1:8000/play/ca108/index.m3u8
 #EXTINF:-1, STAR CHANNEL HD OP2
 http://190.60.37.154:45000/play/a02y/index.m3u8
-#EXTINF:-1, FX HD OP2
-http://user.tvcluboficial.com/live/m/m/42.m3u8
 #EXTINF:-1, SONY CHANNEL
 http://199.127.63.143:8989/278404_.m3u8
 #EXTINF:-1, UNIVERSAL HD OP2
@@ -247,8 +245,6 @@ http://200.60.124.19:29000/play/a01m/index.m3u8
 http://user.tvcluboficial.com/live/m/m/102.m3u8
 #EXTINF:-1, TNT OP2
 http://user.tvcluboficial.com/live/m/m/179.m3u8
-#EXTINF:-1, TNT SERIES
-http://user.tvcluboficial.com/live/m/m/90.m3u8
 #EXTINF:-1, TNT SERIES OP2
 http://200.115.120.1:8000/play/ca035/index.m3u8
 #EXTINF:-1, SPACE
