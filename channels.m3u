@@ -181,6 +181,8 @@ http://200.60.124.19:29000/play/a01g/index.m3u8
 http://200.60.124.19:29000/play/a06r/index.m3u8
 #EXTINF:-1, RCN OP2
 http://user.tvcluboficial.com/live/m/m/390.m3u8
+#EXTINF:-1, CARACOL
+http://user.tvcluboficial.com/live/m/m/391.m3u8
 #EXTINF:-1, CARACOL OP2
 http://190.60.37.154:45000/play/a04a/index.m3u8
 #EXTINF:-1, ANIMAL PLANET
@@ -349,6 +351,8 @@ https://59d39900ebfb8.streamlock.net:443/8312/8312/playlist.m3u8
 http://user.tvcluboficial.com/live/m/m/259.m3u8
 #EXTINF:-1, DIRECTV SPORTS 2
 http://user.tvcluboficial.com/live/m/m/667.m3u8
+#EXTINF:-1, DIRECTV SPORTS PLUS
+http://user.tvcluboficial.com/live/m/m/935.m3u8
 #EXTINF:-1, GOLTV
 http://200.115.98.26:9000/play/a00q/index.m3u8
 #EXTINF:-1, TNT SPORTS
