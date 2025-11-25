@@ -15,8 +15,6 @@ http://200.113.4.75:7210/play/a02l/index.m3u8
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, OVACION
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1, LAS ESTRELLAS HD OP3
-http://200.60.124.19:29000/play/a01d/index.m3u8
 #EXTINF:-1, ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1, AZTECA UNO OP2
@@ -33,24 +31,14 @@ https://sneoplus.vip:8443/play/4csat81f7AeFdCdwen9KasSpHhPjVtYdSmkjJonBVMk/ts
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 #EXTINF:-1, UNICABLE HD
 https://sneoplus.vip:8443/play/4csat81f7AeFdCdwen9KasJ5AnGJ4NsDROCpRW9M9IA/ts
-#EXTINF:-1, TELEMUNDO INTERNACIONAL OP2
-http://200.60.124.19:29000/play/a01g/index.m3u8
 #EXTINF:-1, CARACOL OP2
 http://190.60.37.154:45000/play/a04a/index.m3u8
-#EXTINF:-1, ANIMAL PLANET
-http://200.60.124.19:29000/play/a012/index.m3u8
-#EXTINF:-1, DISCOVERY CHANNEL MX
-http://190.60.37.154:45000/play/a03c/index.m3u8
 #EXTINF:-1, DISCOVERY H and H HD
 http://190.60.37.154:45000/play/a059/index.m3u8
 #EXTINF:-1, DISCOVERY TURBO
 http://190.60.37.154:45000/play/a04s/index.m3u8
 #EXTINF:-1, DISCOVERY ID OP2
 http://190.60.37.154:45000/play/a044/index.m3u8
-#EXTINF:-1, NICKELODEO
-http://200.60.124.19:29000/play/a01i/index.m3u8
-#EXTINF:-1, DISNEY CHANNEL OP 2
-http://200.60.124.19:29000/play/a010/index.m3u8
 #EXTINF:-1, NICK JR OP 2
 http://190.60.37.154:45000/play/a04r/index.m3u8
 #EXTINF:-1, DISNEY JR
@@ -65,36 +53,16 @@ https://sneoplus.vip:8443/play/4csat81f7AeFdCdwen9KagsDIlC7s8IKnrFVEQtoYMM/ts
 http://190.60.37.154:45000/play/a02y/index.m3u8
 #EXTINF:-1, FX HD
 http://190.60.37.154:45000/play/a05e/index.m3u8
-#EXTINF:-1, SONY CHANNEL
-http://200.60.124.19:29000/play/a026/index.m3u8
-#EXTINF:-1, UNIVERSAL HD OP2
-http://200.60.124.19:29000/play/a01m/index.m3u8
 #EXTINF:-1, STUDIO UNIVERSAL
 http://190.60.37.154:45000/play/a038/index.m3u8
-#EXTINF:-1, WARNER HD
-http://200.60.124.19:29000/play/a013/index.m3u8
-#EXTINF:-1, TNT
-http://200.60.124.19:29000/play/a01u/index.m3u8
 #EXTINF:-1, SPACE
 http://190.60.37.154:45000/play/a04o/index.m3u8
 #EXTINF:-1, A and E
 http://190.60.37.154:45000/play/a03j/index.m3u8
-#EXTINF:-1, AXN OP 2
-http://200.60.124.19:29000/play/a027/index.m3u8
 #EXTINF:-1, CINEMAX OP2
 http://190.60.37.154:45000/play/a04l/index.m3u8
-#EXTINF:-1, CINECANAL
-http://200.60.124.19:29000/play/a01l/index.m3u8
-#EXTINF:-1, SYFY
-http://200.60.124.19:29000/play/a022/index.m3u8
 #EXTINF:-1, Retro Music Television
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, ESPN
-http://200.60.124.19:29000/play/a016/index.m3u8
-#EXTINF:-1, ESPN 2
-http://200.60.124.19:29000/play/a015/index.m3u8
-#EXTINF:-1, ESPN 3
-http://200.60.124.19:29000/play/a02e/index.m3u8
 #EXTINF:-1, FOX SPORT 2
 http://190.60.37.154:45000/play/a03n/index.m3u8
 #EXTINF:-1, FOX SPORT 2 OP 2
@@ -111,8 +79,6 @@ http://200.113.4.75:7210/play/a011/index.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1, DETECTIVES EN GUERRA
 https://i.ytimg.com/vi/CEisKmE1HYI/maxresdefault.jpg
-#EXTINF:-1, LAS ESTRELLAS HD OP3
-http://200.60.124.19:29000/play/a01d/index.m3u8
 #EXTINF:-1, ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1, ESTRELLA TV NOTICIAS
@@ -133,8 +99,6 @@ https://sneoplus.vip:8443/play/4csat81f7AeFdCdwen9KanXdMzp_KSTITXlXI_wLo3c/ts
 http://user.tvcluboficial.com/live/m/m/99.m3u8
 #EXTINF:-1, ONCE HD
 https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
-#EXTINF:-1, TELEFORMULA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 #EXTINF:-1, MEXIQUENSE 3.1
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1, FORO TV
@@ -145,14 +109,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302738
 #EXTINF:-1, PASIONES
 http://200.115.120.1:8000/play/ca065/index.m3u8
-#EXTINF:-1, PASIONES OP 3
-http://200.115.98.26:9000/play/a02b/index.m3u8
 #EXTINF:-1, UNIVISION TLNOVELAS
 http://user.tvcluboficial.com/live/m/m/413.m3u8
-#EXTINF:-1, TELEMUNDO INTERNACIONAL OP2
-http://200.60.124.19:29000/play/a01g/index.m3u8
-#EXTINF:-1, TNT NOVELAS
-http://200.60.124.19:29000/play/a06r/index.m3u8
 #EXTINF:-1, RCN OP2
 http://user.tvcluboficial.com/live/m/m/390.m3u8
 #EXTINF:-1, CARACOL
@@ -163,12 +121,6 @@ http://190.60.37.154:45000/play/a04a/index.m3u8
 http://104.238.205.28:8989/278617_.m3u8
 #EXTINF:-1, H2
 http://user.tvcluboficial.com/live/m/m/61.m3u8
-#EXTINF:-1, H2 OP2
-http://200.115.98.26:9000/play/a02l/index.m3u8
-#EXTINF:-1, DISCOVERY CHANNEL MX
-http://190.60.37.154:45000/play/a03c/index.m3u8
-#EXTINF:-1, DISCOVERY SCIENCE
-http://200.115.98.26:9000/play/a00c/index.m3u8
 #EXTINF:-1, DISCOVERY H&H HD
 http://190.60.37.154:45000/play/a059/index.m3u8
 #EXTINF:-1, DISCOVERY TURBO
@@ -179,12 +131,6 @@ http://user.tvcluboficial.com/live/m/m/68.m3u8
 http://190.60.37.154:45000/play/a044/index.m3u8
 #EXTINF:-1, TOONCAST OP 2
 http://200.115.120.1:8000/play/ca090/index.m3u8
-#EXTINF:-1, DISCOVERY KIDS MX
-http://200.115.98.26:9000/play/a00h/index.m3u8
-#EXTINF:-1, CARTOON NETWORK HD
-http://200.115.98.26:9000/play/a00u/index.m3u8
-#EXTINF:-1, DISNEY CHANNEL OP 2
-http://200.60.124.19:29000/play/a010/index.m3u8
 #EXTINF:-1, CARTOONITO OP2
 http://200.115.120.1:8000/play/ca006/index.m3u8
 #EXTINF:-1, BIT ME
@@ -197,22 +143,14 @@ http://190.60.37.154:45000/play/a04r/index.m3u8
 http://190.60.37.154:45000/play/a03a/index.m3u8
 #EXTINF:-1, HBO OP2
 http://user.tvcluboficial.com/live/m/m/62.m3u8
-#EXTINF:-1, HBO2 OP2
-http://200.115.98.26:9000/play/a03b/index.m3u8
 #EXTINF:-1, HBO PLUS
 http://user.tvcluboficial.com/live/m/m/64.m3u8
-#EXTINF:-1, DISTRITO COMEDIA
-http://200.115.98.26:9000/play/a01p/index.m3u8
 #EXTINF:-1, DISTRITO COMEDIA OP2
 http://200.115.120.1:8000/play/ca082/index.m3u8
 #EXTINF:-1, COMEDY CENTRAL
 http://200.115.120.1:8000/play/ca108/index.m3u8
 #EXTINF:-1, STAR CHANNEL HD OP2
 http://190.60.37.154:45000/play/a02y/index.m3u8
-#EXTINF:-1, SONY CHANNEL
-http://199.127.63.143:8989/278404_.m3u8
-#EXTINF:-1, UNIVERSAL HD OP2
-http://200.60.124.19:29000/play/a01m/index.m3u8
 #EXTINF:-1, TNT OP2
 http://user.tvcluboficial.com/live/m/m/179.m3u8
 #EXTINF:-1, TNT SERIES
@@ -237,8 +175,6 @@ http://200.115.120.1:8000/play/ca024/index.m3u8
 http://200.115.120.1:8000/play/ca037/index.m3u8
 #EXTINF:-1, DE PELICULA
 http://104.238.205.28:8989/278456_.m3u8
-#EXTINF:-1, DE PELICULA PLUS
-http://104.238.205.28:8989/278457_.m3u8
 #EXTINF:-1, TELEHIT
 http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1, TELEHIT PLUS
@@ -297,8 +233,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007
 http://user.tvcluboficial.com/live/m/m/34.m3u8
 #EXTINF:-1, ESPN 2 OP 2
 http://200.115.120.1:8000/play/ca042/index.m3u8
-#EXTINF:-1, FOX SPORTS PREMIUM
-http://200.115.98.26:9000/play/a00w/index.m3u8
 #EXTINF:-1, FOX SPORT 2
 http://190.60.37.154:45000/play/a03n/index.m3u8
 #EXTINF:-1, FOX SPORT 2 OP 2
@@ -315,8 +249,6 @@ http://user.tvcluboficial.com/live/m/m/259.m3u8
 http://user.tvcluboficial.com/live/m/m/667.m3u8
 #EXTINF:-1, DIRECTV SPORTS PLUS
 http://user.tvcluboficial.com/live/m/m/935.m3u8
-#EXTINF:-1, GOLTV
-http://200.115.98.26:9000/play/a00q/index.m3u8
 #EXTINF:-1, TNT SPORTS
 http://200.115.120.1:8000/play/ca040/index.m3u8
 #EXTINF:-1, TNT SPORTS HD
@@ -355,12 +287,7 @@ https://cinevallstorage.com/stuff/longless.mp4
 https://cinevallstorage.com/stuff/correr.mp4
 #EXTINF:-1, BIENVENIDOS AL PARAISO
 https://cinevallstorage.com/stuff/paraiso.mp4
-#EXTINF:-1, LOS INFALIBLES
-http://home-playtv.com:8080/movie/Eltico800/yqLAvES9xr/547975.mkv
 #EXTINF:-1, REBEL MOON PARTE UNO
 http://zonamovie.live:8080/movie/Herberthlopez/ODHS5645/698217.mkv
 #EXTINF:-1, DIVINA SEÑAL
 https://www.mediafire.com/file_premium/n4t3gjrxc3guufe/divinasenal.mp4/file
-#EXTINF:-1, El cadaver de la novia
-https://dn710107.ca.archive.org/0/items/el.-cadaver.-de.-la.-novia.-2005.-latin.-american.-spanish.-1080p.-bdrip-xvid/El.Cadaver.De.La.Novia.2005.Latin.American.Spanish.1080p.BluRay-XVID.mp4
-#EXTINF:-1, El extraño mundo de Jack
