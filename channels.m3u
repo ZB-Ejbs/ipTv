@@ -101,8 +101,6 @@ http://user.tvcluboficial.com/live/m/m/99.m3u8
 https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
 #EXTINF:-1, MEXIQUENSE 3.1
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1, FORO TV
-http://172.93.102.112:8989/158628_.m3u8
 #EXTINF:-1, AZ CORAZÓN OP2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 #EXTINF:-1, UNICABLE HD
