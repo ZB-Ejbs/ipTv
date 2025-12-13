@@ -89,8 +89,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302683
 #EXTINF:-1, AZ CLIC HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
-#EXTINF:-1, AZ CINEMA
-http://104.238.205.28:8989/278464_.m3u8
 #EXTINF:-1, CANAL 5 HD
 http://user.tvcluboficial.com/live/m/m/14.m3u8
 #EXTINF:-1, NU9VE
@@ -115,8 +113,6 @@ http://user.tvcluboficial.com/live/m/m/390.m3u8
 http://user.tvcluboficial.com/live/m/m/391.m3u8
 #EXTINF:-1, CARACOL OP2
 http://190.60.37.154:45000/play/a04a/index.m3u8
-#EXTINF:-1, ANIMAL PLANET
-http://104.238.205.28:8989/278617_.m3u8
 #EXTINF:-1, H2
 http://user.tvcluboficial.com/live/m/m/61.m3u8
 #EXTINF:-1, DISCOVERY H&H HD
@@ -171,10 +167,6 @@ http://190.60.37.154:45000/play/a04l/index.m3u8
 http://200.115.120.1:8000/play/ca024/index.m3u8
 #EXTINF:-1, GOLDEN EDGE
 http://200.115.120.1:8000/play/ca037/index.m3u8
-#EXTINF:-1, DE PELICULA
-http://104.238.205.28:8989/278456_.m3u8
-#EXTINF:-1, DE PELICULA PLUS
-http://104.238.205.28:8989/278457_.m3u8
 #EXTINF:-1, TELEHIT
 http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1, TELEHIT PLUS
@@ -253,8 +245,6 @@ http://user.tvcluboficial.com/live/m/m/935.m3u8
 http://200.115.120.1:8000/play/ca040/index.m3u8
 #EXTINF:-1, TNT SPORTS HD
 http://200.113.4.75:7210/play/a011/index.m3u8
-#EXTINF:-1, ADRENALINA SPORTS HD
-http://104.238.205.28:8989/278573_.m3u8
 #EXTINF:-1, BOB SPONGE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus\\\"
 #EXTINF:-1, NARUTO
