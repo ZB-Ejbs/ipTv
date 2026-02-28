@@ -5,12 +5,6 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 #EXTINF:-1, AZ CORAZÓN OP2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
-#EXTINF:-1, STAR CHANNEL HD OP2
-http://200.113.4.75:7210/play/a01l/index.m3u8
-#EXTINF:-1, WARNER HD
-http://200.113.4.75:7210/play/a00u/index.m3u8
-#EXTINF:-1, SYFY
-http://200.113.4.75:7210/play/a02l/index.m3u8
 #EXTINF:-1, Retro Music Television
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, OVACION
@@ -21,60 +15,12 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1, AZ CLIC HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
-#EXTINF:-1, CANAL 5 HD
-https://sneoplus.vip:8443/play/4csat81f7AeFdCdwen9KauPyB4YAB0z4Xbsqo3cWqHA/ts
-#EXTINF:-1, NU9VE
-https://sneoplus.vip:8443/play/4csat81f7AeFdCdwen9KanXdMzp_KSTITXlXI_wLo3c/ts
-#EXTINF:-1, GALAVISION
-https://sneoplus.vip:8443/play/4csat81f7AeFdCdwen9KasSpHhPjVtYdSmkjJonBVMk/ts
 #EXTINF:-1, AZ CORAZÓN OP2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
-#EXTINF:-1, UNICABLE HD
-https://sneoplus.vip:8443/play/4csat81f7AeFdCdwen9KasJ5AnGJ4NsDROCpRW9M9IA/ts
-#EXTINF:-1, CARACOL OP2
-http://190.60.37.154:45000/play/a04a/index.m3u8
-#EXTINF:-1, DISCOVERY H and H HD
-http://190.60.37.154:45000/play/a059/index.m3u8
-#EXTINF:-1, DISCOVERY TURBO
-http://190.60.37.154:45000/play/a04s/index.m3u8
-#EXTINF:-1, DISCOVERY ID OP2
-http://190.60.37.154:45000/play/a044/index.m3u8
-#EXTINF:-1, NICK JR OP 2
-http://190.60.37.154:45000/play/a04r/index.m3u8
-#EXTINF:-1, DISNEY JR
-http://190.60.37.154:45000/play/a03a/index.m3u8
-#EXTINF:-1, HBO OP2
-http://190.60.37.154:45000/play/a056/index.m3u8
-#EXTINF:-1, HBO2
-http://190.60.37.154:45000/play/a052/index.m3u8
-#EXTINF:-1, DISTRITO COMEDIA
-https://sneoplus.vip:8443/play/4csat81f7AeFdCdwen9KagsDIlC7s8IKnrFVEQtoYMM/ts
-#EXTINF:-1, STAR CHANNEL HD OP2
-http://190.60.37.154:45000/play/a02y/index.m3u8
-#EXTINF:-1, FX HD
-http://190.60.37.154:45000/play/a05e/index.m3u8
-#EXTINF:-1, STUDIO UNIVERSAL
-http://190.60.37.154:45000/play/a038/index.m3u8
-#EXTINF:-1, SPACE
-http://190.60.37.154:45000/play/a04o/index.m3u8
-#EXTINF:-1, A and E
-http://190.60.37.154:45000/play/a03j/index.m3u8
-#EXTINF:-1, CINEMAX OP2
-http://190.60.37.154:45000/play/a04l/index.m3u8
 #EXTINF:-1, Retro Music Television
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, FOX SPORT 2
-http://190.60.37.154:45000/play/a03n/index.m3u8
-#EXTINF:-1, FOX SPORT 2 OP 2
-http://190.60.37.154:45000/play/a03n/index.m3u8
-#EXTINF:-1, FOX SPORT 3
-http://190.60.37.154:45000/play/a03o/index.m3u8
-#EXTINF:-1, FOX SPORT 3 OP 2
-http://190.60.37.154:45000/play/a03o/index.m3u8
 #EXTINF:-1, FUTBOL NETWORK
 https://59d39900ebfb8.streamlock.net:443/8312/8312/playlist.m3u8
-#EXTINF:-1, TNT SPORTS HD
-http://200.113.4.75:7210/play/a011/index.m3u8
 #EXTINF:-1, OVACION
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1, DETECTIVES EN GUERRA
@@ -89,12 +35,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302683
 #EXTINF:-1, AZ CLIC HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
-#EXTINF:-1, CANAL 5 HD
-http://user.tvcluboficial.com/live/m/m/14.m3u8
-#EXTINF:-1, NU9VE
-https://sneoplus.vip:8443/play/4csat81f7AeFdCdwen9KanXdMzp_KSTITXlXI_wLo3c/ts
-#EXTINF:-1, UNIVISION MIAMI
-http://user.tvcluboficial.com/live/m/m/99.m3u8
 #EXTINF:-1, ONCE HD
 https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
 #EXTINF:-1, MEXIQUENSE 3.1
@@ -105,64 +45,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302738
 #EXTINF:-1, PASIONES
 http://200.115.120.1:8000/play/ca065/index.m3u8
-#EXTINF:-1, UNIVISION TLNOVELAS
-http://user.tvcluboficial.com/live/m/m/413.m3u8
-#EXTINF:-1, RCN OP2
-http://user.tvcluboficial.com/live/m/m/390.m3u8
-#EXTINF:-1, CARACOL
-http://user.tvcluboficial.com/live/m/m/391.m3u8
-#EXTINF:-1, CARACOL OP2
-http://190.60.37.154:45000/play/a04a/index.m3u8
-#EXTINF:-1, H2
-http://user.tvcluboficial.com/live/m/m/61.m3u8
-#EXTINF:-1, DISCOVERY H&H HD
-http://190.60.37.154:45000/play/a059/index.m3u8
-#EXTINF:-1, DISCOVERY TURBO
-http://190.60.37.154:45000/play/a04s/index.m3u8
-#EXTINF:-1, DISCOVERY ID
-http://user.tvcluboficial.com/live/m/m/68.m3u8
-#EXTINF:-1, DISCOVERY ID OP2
-http://190.60.37.154:45000/play/a044/index.m3u8
 #EXTINF:-1, TOONCAST OP 2
 http://200.115.120.1:8000/play/ca090/index.m3u8
 #EXTINF:-1, CARTOONITO OP2
 http://200.115.120.1:8000/play/ca006/index.m3u8
 #EXTINF:-1, BIT ME
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302617
-#EXTINF:-1, NICK JR
-http://user.tvcluboficial.com/live/m/m/79.m3u8
-#EXTINF:-1, NICK JR OP 2
-http://190.60.37.154:45000/play/a04r/index.m3u8
-#EXTINF:-1, DISNEY JR
-http://190.60.37.154:45000/play/a03a/index.m3u8
-#EXTINF:-1, HBO OP2
-http://user.tvcluboficial.com/live/m/m/62.m3u8
-#EXTINF:-1, HBO PLUS
-http://user.tvcluboficial.com/live/m/m/64.m3u8
 #EXTINF:-1, DISTRITO COMEDIA OP2
 http://200.115.120.1:8000/play/ca082/index.m3u8
 #EXTINF:-1, COMEDY CENTRAL
 http://200.115.120.1:8000/play/ca108/index.m3u8
-#EXTINF:-1, STAR CHANNEL HD OP2
-http://190.60.37.154:45000/play/a02y/index.m3u8
-#EXTINF:-1, TNT OP2
-http://user.tvcluboficial.com/live/m/m/179.m3u8
-#EXTINF:-1, TNT SERIES
-http://user.tvcluboficial.com/live/m/m/90.m3u8
 #EXTINF:-1, TNT SERIES OP2
 http://200.115.120.1:8000/play/ca035/index.m3u8
-#EXTINF:-1, SPACE
-http://190.60.37.154:45000/play/a04o/index.m3u8
-#EXTINF:-1, A&E
-http://190.60.37.154:45000/play/a03j/index.m3u8
-#EXTINF:-1, AMC
-http://user.tvcluboficial.com/live/m/m/183.m3u8
-#EXTINF:-1, PARAMOUNT
-http://user.tvcluboficial.com/live/m/m/200.m3u8
-#EXTINF:-1, PARAMOUNT OP 2
-http://200.115.120.1:8000/play/ca115/index.m3u8
-#EXTINF:-1, CINEMAX OP2
-http://190.60.37.154:45000/play/a04l/index.m3u8
 #EXTINF:-1, GOLDEN
 http://200.115.120.1:8000/play/ca024/index.m3u8
 #EXTINF:-1, GOLDEN EDGE
@@ -221,32 +115,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fed840a2764000720d966/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b402df8c-cd24-11eb-993e-0242ac110002&sid=b402df8c-cd24-11eb-993e-0242ac110002&userId=
 #EXTINF:-1, PLUTO TV NICK CONCIERTOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=0098c5c8-cd24-11eb-98a9-0242ac110002&sid=0098c5c8-cd24-11eb-98a9-0242ac110002&userId=
-#EXTINF:-1, ESPN
-http://user.tvcluboficial.com/live/m/m/34.m3u8
 #EXTINF:-1, ESPN 2 OP 2
 http://200.115.120.1:8000/play/ca042/index.m3u8
-#EXTINF:-1, FOX SPORT 2
-http://190.60.37.154:45000/play/a03n/index.m3u8
-#EXTINF:-1, FOX SPORT 2 OP 2
-http://190.60.37.154:45000/play/a03n/index.m3u8
-#EXTINF:-1, FOX SPORT 3
-http://190.60.37.154:45000/play/a03o/index.m3u8
-#EXTINF:-1, FOX SPORT 3 OP 2
-http://190.60.37.154:45000/play/a03o/index.m3u8
 #EXTINF:-1, FUTBOL NETWORK
 https://59d39900ebfb8.streamlock.net:443/8312/8312/playlist.m3u8
-#EXTINF:-1, DIRECTV SPORTS
-http://user.tvcluboficial.com/live/m/m/259.m3u8
-#EXTINF:-1, DIRECTV SPORTS 2
-http://user.tvcluboficial.com/live/m/m/667.m3u8
-#EXTINF:-1, DIRECTV SPORTS PLUS
-http://user.tvcluboficial.com/live/m/m/935.m3u8
 #EXTINF:-1, TNT SPORTS
 http://200.115.120.1:8000/play/ca040/index.m3u8
-#EXTINF:-1, TNT SPORTS HD
-http://200.113.4.75:7210/play/a011/index.m3u8
-#EXTINF:-1, BOB SPONGE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus\\\"
 #EXTINF:-1, NARUTO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=eba192f4-cd23-11eb-9091-0242ac110002&sid=eba192f4-cd23-11eb-9091-0242ac110002&userId=
 #EXTINF:-1, ATV
@@ -277,7 +151,5 @@ https://cinevallstorage.com/stuff/longless.mp4
 https://cinevallstorage.com/stuff/correr.mp4
 #EXTINF:-1, BIENVENIDOS AL PARAISO
 https://cinevallstorage.com/stuff/paraiso.mp4
-#EXTINF:-1, REBEL MOON PARTE UNO
-http://zonamovie.live:8080/movie/Herberthlopez/ODHS5645/698217.mkv
 #EXTINF:-1, DIVINA SEÑAL
 https://www.mediafire.com/file_premium/n4t3gjrxc3guufe/divinasenal.mp4/file
