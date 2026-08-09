@@ -1,7 +1,7 @@
-#EXTM3U
-#EXTINF:-1, LAS ESTRELLAS HD OP2
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/globetvapp/epg/main/Mexico/mexico1.xml"
+#EXTINF:-1 tvg-id="Las Estrellas.mx", LAS ESTRELLAS HD OP2
 http://190.60.37.154:45000/play/a03m/index.m3u8
-#EXTINF:-1, LAS ESTRELLAS HD OP3
+#EXTINF:-1 tvg-id="Las Estrellas.mx", LAS ESTRELLAS HD OP3
 https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
 #EXTINF:-1, ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
@@ -13,11 +13,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492e6d7f3f560007
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1, AZTECA UNO OP2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
-#EXTINF:-1, AZTECA 7  OP2
+#EXTINF:-1 tvg-id="Azteca 7.mx", AZTECA 7  OP2
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1, AZ CLIC HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
-#EXTINF:-1, ONCE HD
+#EXTINF:-1 tvg-id="Canal Once.mx", ONCE HD
 https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
 #EXTINF:-1, MEXIQUENSE 3.1
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
@@ -25,13 +25,13 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1, MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1, AZ CORAZÓN OP2
+#EXTINF:-1 tvg-id="Az Corazon.mx", AZ CORAZÓN OP2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 #EXTINF:-1, PASIONES
 http://200.115.120.1:8000/play/ca065/index.m3u8
 #EXTINF:-1, PASIONES OP 3
 http://190.119.43.180:8000/play/a0zj/index.m3u8
-#EXTINF:-1, TLNOVELAS
+#EXTINF:-1 tvg-id="TLNovelas.mx", TLNOVELAS
 http://190.60.37.154:45000/play/a01b/index.m3u8
 #EXTINF:-1, TELEMUNDO PUERTO RICO
 http://190.60.37.154:45000/play/a03p/index.m3u8
@@ -45,109 +45,109 @@ http://190.60.37.154:45000/play/a04a/index.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 #EXTINF:-1, NAT GEO OP 2
 http://190.119.43.180:8000/play/a0s4/index.m3u8
-#EXTINF:-1, ANIMAL PLANET OP2
+#EXTINF:-1 tvg-id="Animal Planet.mx", ANIMAL PLANET OP2
 http://190.119.43.180:8000/play/a0zf/index.m3u8
 #EXTINF:-1, HISTORY PREMIUM
 http://190.119.43.180:8000/play/a0s8/index.m3u8
 #EXTINF:-1, H2
 http://190.119.43.180:8000/play/a0zl/index.m3u8
-#EXTINF:-1, DISCOVERY CHANNEL MX
+#EXTINF:-1 tvg-id="Discovery Channel.mx", DISCOVERY CHANNEL MX
 http://190.119.43.180:8000/play/a0w3/index.m3u8
 #EXTINF:-1, DISCOVERY SCIENCE
 http://190.119.43.180:8000/play/a0v5/index.m3u8
-#EXTINF:-1, DISCOVERY H&H HD
+#EXTINF:-1 tvg-id="Discovery HD.mx", DISCOVERY H&H HD
 http://190.60.37.154:45000/play/a059/index.m3u8
 #EXTINF:-1, DISCOVERY TURBO
 http://190.60.37.154:45000/play/a04s/index.m3u8
-#EXTINF:-1, DISCOVERY ID
+#EXTINF:-1 tvg-id="Discovery HD.mx", DISCOVERY ID
 http://190.119.43.180:8000/play/a0s6/index.m3u8
-#EXTINF:-1, DISCOVERY ID OP2
+#EXTINF:-1 tvg-id="Discovery HD.mx", DISCOVERY ID OP2
 http://190.60.37.154:45000/play/a044/index.m3u8
-#EXTINF:-1, DISCOVERY THEATER
+#EXTINF:-1 tvg-id="Discovery Theater.mx", DISCOVERY THEATER
 http://190.60.37.154:45000/play/a05g/index.m3u8
-#EXTINF:-1, DISCOVERY THEATER OP 2
+#EXTINF:-1 tvg-id="Discovery Theater.mx", DISCOVERY THEATER OP 2
 http://190.119.43.180:8000/play/a0wt/index.m3u8
-#EXTINF:-1, DISCOVERY TLC
+#EXTINF:-1 tvg-id="Discovery HD.mx", DISCOVERY TLC
 http://209.126.106.30:8081/live/4757ada4db09488e8b909a71b9af3b8d/2ee168e8cc864d32baee88eed347be4b/49.m3u8
-#EXTINF:-1, TOONCAST OP 2
+#EXTINF:-1 tvg-id="Tooncast.mx", TOONCAST OP 2
 http://200.115.120.1:8000/play/ca090/index.m3u8
-#EXTINF:-1, DISCOVERY KIDS PREMIUM
+#EXTINF:-1 tvg-id="Discovery Kids.mx", DISCOVERY KIDS PREMIUM
 http://190.60.37.154:45000/play/a035/index.m3u8
 #EXTINF:-1, NICKELODEO
 http://190.119.43.180:8000/play/a0w1/index.m3u8
-#EXTINF:-1, CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="Cartoon Network.mx", CARTOON NETWORK HD
 http://190.60.37.154:45000/play/a030/index.m3u8
-#EXTINF:-1, DISNEY CHANNEL
+#EXTINF:-1 tvg-id="Disney Channel.mx", DISNEY CHANNEL
 http://190.60.37.154:45000/play/a03b/index.m3u8
-#EXTINF:-1, DISNEY CHANNEL OP 2
+#EXTINF:-1 tvg-id="Disney Channel.mx", DISNEY CHANNEL OP 2
 http://190.119.43.180:8000/play/a0zt/index.m3u8
-#EXTINF:-1, CARTOONITO OP2
+#EXTINF:-1 tvg-id="Cartoonito.mx", CARTOONITO OP2
 http://200.115.120.1:8000/play/ca006/index.m3u8
-#EXTINF:-1, NICK JR OP 2
+#EXTINF:-1 tvg-id="Nick Jr..mx", NICK JR OP 2
 http://190.60.37.154:45000/play/a04r/index.m3u8
 #EXTINF:-1, DISNEY JR
 http://190.60.37.154:45000/play/a03a/index.m3u8
-#EXTINF:-1, HBO PLUS OP2
+#EXTINF:-1 tvg-id="HBO Plus Mexico.mx", HBO PLUS OP2
 http://190.119.43.180:8000/play/a0zg/index.m3u8
-#EXTINF:-1, HBO FAMILY
+#EXTINF:-1 tvg-id="HBO Family.mx", HBO FAMILY
 http://190.119.43.180:8000/play/a0rq/index.m3u8
-#EXTINF:-1, HBO FAMILY OP2
+#EXTINF:-1 tvg-id="HBO Family.mx", HBO FAMILY OP2
 http://190.60.37.154:45000/play/a055/index.m3u8
-#EXTINF:-1, COMEDY CENTRAL
+#EXTINF:-1 tvg-id="Comedy Central.mx", COMEDY CENTRAL
 http://200.115.120.1:8000/play/ca108/index.m3u8
-#EXTINF:-1, STAR CHANNEL HD
+#EXTINF:-1 tvg-id="Star Channel HD.mx", STAR CHANNEL HD
 http://190.119.43.180:8000/play/a0yl/index.m3u8
-#EXTINF:-1, STAR CHANNEL HD OP2
+#EXTINF:-1 tvg-id="Star Channel HD.mx", STAR CHANNEL HD OP2
 http://190.60.37.154:45000/play/a02y/index.m3u8
-#EXTINF:-1, FX HD
+#EXTINF:-1 tvg-id="FX Movies.mx", FX HD
 http://190.119.43.180:8000/play/a0vv/index.m3u8
-#EXTINF:-1, FX HD OP2
+#EXTINF:-1 tvg-id="FX Movies.mx", FX HD OP2
 http://190.60.37.154:45000/play/a05e/index.m3u8
 #EXTINF:-1, SONY CHANNEL
 http://190.119.43.180:8000/play/a0s5/index.m3u8
-#EXTINF:-1, UNIVERSAL HD OP2
+#EXTINF:-1 tvg-id="Studio Universal.mx", UNIVERSAL HD OP2
 http://190.119.43.180:8000/play/a0sa/index.m3u8
-#EXTINF:-1, STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="Studio Universal.mx", STUDIO UNIVERSAL
 http://190.119.43.180:8000/play/a0xo/index.m3u8
-#EXTINF:-1, STUDIO UNIVERSAL OP2
+#EXTINF:-1 tvg-id="Studio Universal.mx", STUDIO UNIVERSAL OP2
 http://190.60.37.154:45000/play/a038/index.m3u8
-#EXTINF:-1, TNT OP2
+#EXTINF:-1 tvg-id="TNT HD.mx", TNT OP2
 http://190.119.43.180:8000/play/a0zs/index.m3u8
 #EXTINF:-1, TNT SERIES
 http://200.115.120.1:8000/play/ca035/index.m3u8
 #EXTINF:-1, TNT SERIES OP2
 http://200.115.120.1:8000/play/ca035/index.m3u8
-#EXTINF:-1, SPACE
+#EXTINF:-1 tvg-id="Space.mx", SPACE
 http://190.60.37.154:45000/play/a04o/index.m3u8
-#EXTINF:-1, SPACE OP2
+#EXTINF:-1 tvg-id="Space.mx", SPACE OP2
 http://190.119.43.180:8000/play/a0vu/index.m3u8
-#EXTINF:-1, A&E
+#EXTINF:-1 tvg-id="Europa Europa.mx", A&E
 http://190.60.37.154:45000/play/a03j/index.m3u8
-#EXTINF:-1, AMC
+#EXTINF:-1 tvg-id="AMC HD.mx", AMC
 http://190.119.43.180:8000/play/a0l2/index.m3u8
-#EXTINF:-1, AXN
+#EXTINF:-1 tvg-id="AXN.mx", AXN
 http://190.119.43.180:8000/play/a0s9/index.m3u8
-#EXTINF:-1, AXN OP 2
+#EXTINF:-1 tvg-id="AXN.mx", AXN OP 2
 http://190.60.37.154:45000/play/a04n/index.m3u8
 #EXTINF:-1, PARAMOUNT OP 2
 http://200.115.120.1:8000/play/ca115/index.m3u8
-#EXTINF:-1, CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.mx", CINEMAX
 http://190.119.43.180:8000/play/a0wk/index.m3u8
-#EXTINF:-1, CINEMAX OP2
+#EXTINF:-1 tvg-id="Cinemax.mx", CINEMAX OP2
 http://190.60.37.154:45000/play/a04l/index.m3u8
-#EXTINF:-1, CINECANAL OP2
+#EXTINF:-1 tvg-id="Cinecanal HD.mx", CINECANAL OP2
 http://190.119.43.180:8000/play/a0vn/index.m3u8
-#EXTINF:-1, SYFY
+#EXTINF:-1 tvg-id="Syfy.mx", SYFY
 http://190.119.43.180:8000/play/a0wf/index.m3u8
-#EXTINF:-1, GOLDEN
+#EXTINF:-1 tvg-id="Golden Edge.mx", GOLDEN
 http://200.115.120.1:8000/play/ca024/index.m3u8
-#EXTINF:-1, TELEHIT
+#EXTINF:-1 tvg-id="Telehit.mx", TELEHIT
 http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1, VH1 CLASSIC
 http://200.115.120.1:8000/play/ca093/index.m3u8
-#EXTINF:-1, MTV OP 2
+#EXTINF:-1 tvg-id="MTV.mx", MTV OP 2
 http://200.115.120.1:8000/play/ca086/index.m3u8
-#EXTINF:-1, BANDAMAX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4DfnOTA.png" tvg-id="Bandamax.mx", BANDAMAX
 http://200.115.120.1:8000/play/ca84/index.m3u8
 #EXTINF:-1, TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -207,17 +207,17 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=0098c5c8-cd24-11eb-98a9-0242ac110002&sid=0098c5c8-cd24-11eb-98a9-0242ac110002&userId=
 #EXTINF:-1, PLUTO TV ANIMES HEROES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?advertisingId=&appName=web&appVersion=5.106.0-f3e2ac48d1dbe8189dc784777108b725b4be6be2&app_name=web&clientDeviceType=0&clientID=1d32070e-dae1-4f58-bd0d-f5c74f89cd0f&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=0098c5c8-cd24-11eb-98a9-0242ac110002&sid=0098c5c8-cd24-11eb-98a9-0242ac110002&userId=
-#EXTINF:-1, ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2.mx", ESPN 2
 http://190.60.37.154:45000/play/a039/index.m3u8
-#EXTINF:-1, ESPN 3 OP 2
+#EXTINF:-1 tvg-id="ESPN 3.mx", ESPN 3 OP 2
 http://190.60.37.154:45000/play/a04u/index.m3u8
 #EXTINF:-1, ESPN SPORTS PREMIUM
 http://190.119.43.180:8000/play/a0yz/index.m3u8
-#EXTINF:-1, FOX SPORTS OP 2
+#EXTINF:-1 tvg-id="FOX Sports 2.mx", FOX SPORTS OP 2
 http://daleplay.club:8080/live/NNE5379khh/playec356nm/fc00ed7b-a8a6-4727-9b02-c69226282aa3.m3u8
-#EXTINF:-1, FOX SPORT 3
+#EXTINF:-1 tvg-id="FOX Sports.mx", FOX SPORT 3
 http://190.60.37.154:45000/play/a03o/index.m3u8
-#EXTINF:-1, FOX SPORT 3 OP 2
+#EXTINF:-1 tvg-id="FOX Sports.mx", FOX SPORT 3 OP 2
 http://190.60.37.154:45000/play/a03o/index.m3u8
 #EXTINF:-1, FUTBOL NETWORK
 https://59d39900ebfb8.streamlock.net:443/8312/8312/playlist.m3u8
@@ -233,7 +233,7 @@ https://kokoapps.xyz/ch2.php?ch=latina.html&f=.m3u8
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1, CNN INTERNACIONAL
 http://200.115.120.1:8000/play/ca045/index.m3u8
-#EXTINF:-1, CNN EN ESPAÑOL
+#EXTINF:-1 tvg-id="CNN en Español.mx", CNN EN ESPAÑOL
 http://200.115.120.1:8000/play/ca044/index.m3u8
 #EXTINF:-1, PRESA
 https://polimor.club/stuff/presa.mp4
