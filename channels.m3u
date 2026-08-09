@@ -1,2188 +1,363 @@
 #EXTM3U
-
-#EXTINF:-1, Lista SmartTV LTV Tecnotuto
-https://latinotv-usuarios.ltvtecnotuto.workers.dev/0:/Colorful%20Futuristic%20Neon%20Gaming%20Channel%20Youtube%20Outro.mp4
-
-#EXTINF:-1, LAS ESTRELLAS HD
-http://172.93.102.112:8989/158630_.m3u8
-
 #EXTINF:-1, LAS ESTRELLAS HD OP2
 http://190.60.37.154:45000/play/a03m/index.m3u8
-
 #EXTINF:-1, LAS ESTRELLAS HD OP3
 https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
-
 #EXTINF:-1, ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-
 #EXTINF:-1, ESTRELLA TV OP2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=65dca7cb-5c3a-4186-9083-f702118added&clientModelNumber=na&deviceDNT=true&deviceId=65dca7cb-5c3a-4186-9083-f702118added&deviceLat=42.0048&deviceLon=-87.9954&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=83.0.4103.106&marketingRegion=US&serverSideAds=true&sessionID=b8df70d0-afa5-11eb-b521-0242ac110002&sid=b8df70d0-afa5-11eb-b521-0242ac110002&userId=
-
 #EXTINF:-1, ESTRELLA TV NOTICIAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=65dca7cb-5c3a-4186-9083-f702118added&clientModelNumber=na&deviceDNT=true&deviceId=65dca7cb-5c3a-4186-9083-f702118added&deviceLat=42.0048&deviceLon=-87.9954&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=83.0.4103.106&marketingRegion=US&serverSideAds=true&sessionID=b8df70d0-afa5-11eb-b521-0242ac110002&sid=b8df70d0-afa5-11eb-b521-0242ac110002&userId=
-
 #EXTINF:-1, AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-
 #EXTINF:-1, AZTECA UNO OP2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
-
-#EXTINF:-1, AZTECA 7 HD
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87572
-
 #EXTINF:-1, AZTECA 7  OP2
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
 #EXTINF:-1, AZ CLIC HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
-
-#EXTINF:-1, AZ MUNDO
-http://45.4.85.214:58001/play/a02f
-
-#EXTINF:-1, AZ CINEMA
-http://104.238.205.28:8989/278464_.m3u8
-
-#EXTINF:-1, CANAL 5 HD
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/162980.m3u8
-
-#EXTINF:-1, CANAL 5 HD OP 2
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87598
-
-#EXTINF:-1, NU9VE
-https://sneoplus.vip:8443/play/4csat81f7AeFdCdwen9KanXdMzp_KSTITXlXI_wLo3c/ts
-
-#EXTINF:-1, NU9VE HD
-http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278360
-
-#EXTINF:-1, NU9VE HD OP 2
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/230603.ts
-
-#EXTINF:-1, GALAVISION
-http://tv14s.xyz:8080/FxQ7fU/508292/58770
-
-#EXTINF:-1, UNIVISION MIAMI
-http://hmbqa6.sekkd.com:80/live/amy5_y3zf4s/gnutz2k9/671603.m3u8
-
-#EXTINF:-1, UNIVISION LOS ANGELES
-http://tv14s.xyz:8080/FxQ7fU/508292/108248
-
-#EXTINF:-1, UNIVISION
-http://190.121.42.18:8000/play/a01x/79124588.m3u8
-
-#EXTINF:-1, UNIMAS
-http://tv14s.xyz:8080/FxQ7fU/508292/57969
-
-#EXTINF:-1, UNIMAS LA
-http://nocable.cc:8080/live/PyRR3Hy/DthK0fv/57969.m3u8
-
-#EXTINF:-1, A PLUS
-http://00322.xyz:8000/live/saabj84/CNGUPDY6RA/3668.ts
-
 #EXTINF:-1, ONCE HD
 https://d24sa4vr9gvjv.cloudfront.net/index_720.m3u8
-
-#EXTINF:-1, TELEFORMULA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
-
 #EXTINF:-1, MEXIQUENSE 3.1
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-
-#EXTINF:-1, IMAGEN TV
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278464.m3u8
-
 #EXTINF:-1, MULTIMEDIOS MONTERREY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
 #EXTINF:-1, MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-
-#EXTINF:-1, APRENDE TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL401/PROFILE03.m3u8
-
-#EXTINF:-1, TVMAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2324/PROFILE03.m3u8
-
-#EXTINF:-1, ONCE NIÑOS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3315/PROFILE03.m3u8
-
-#EXTINF:-1, TVC
-http://tv.proyectox.vip:8080/L0vjEGB3MC/GF8Nqw8gZ5/26735
-
-#EXTINF:-1, RT
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/25753
-
-#EXTINF:-1, FORO TV
-http://172.93.102.112:8989/158628_.m3u8
-
-#EXTINF:-1, NMAS
-https://linear-553.frequency.stream/dist/vix/dist/vix/553/hls/master/playlist.m3u8
-
-#EXTINF:-1, AZ CORAZÓN
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/87568
-
 #EXTINF:-1, AZ CORAZÓN OP2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
-
-#EXTINF:-1, UNICABLE
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/8382
-
-#EXTINF:-1, UNICABLE HD
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302738
-
 #EXTINF:-1, PASIONES
 http://200.115.120.1:8000/play/ca065/index.m3u8
-
-#EXTINF:-1, PASIONES OP 2
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/8335
-
 #EXTINF:-1, PASIONES OP 3
 http://190.119.43.180:8000/play/a0zj/index.m3u8
-
 #EXTINF:-1, TLNOVELAS
 http://190.60.37.154:45000/play/a01b/index.m3u8
-
-#EXTINF:-1, UNIVISION TLNOVELAS
-http://user.tvcluboficial.com/live/u/u/413.m3u8
-
-#EXTINF:-1, TELEMUNDO INTERNACIONAL
-http://190.119.43.180:8000/play/a0t6/index.m3u8
-
-#EXTINF:-1, TELEMUNDO INTERNACIONAL OP2
-http://tv14s.xyz:8080/FxQ7fU/508292/56410
-
 #EXTINF:-1, TELEMUNDO PUERTO RICO
 http://190.60.37.154:45000/play/a03p/index.m3u8
-
-#EXTINF:-1, TNT NOVELAS
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278403.m3u8
-
 #EXTINF:-1, RCN
 http://190.60.37.154:45000/play/a04b/index.m3u8
-
-#EXTINF:-1, RCN OP2
-http://177.93.46.163:8000/play/a01o
-
-#EXTINF:-1, RCN INTERNACIONAL
-http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/257
-
-#EXTINF:-1, RCN NOVELAS
-http://168.227.22.18:1935/live/mobile-066/playlist.m3u8
-
 #EXTINF:-1, CARACOL
 http://190.119.43.180:8000/play/a0ix/index.m3u8
-
 #EXTINF:-1, CARACOL OP2
 http://190.60.37.154:45000/play/a04a/index.m3u8
-
-#EXTINF:-1, TELETICA
-http://zorrohunter.com:8080/haw5UJfF68/1729172230/46826
-
-#EXTINF:-1, TELEFE
-http://user.tvcluboficial.com/stream/m/m/771.m3u8
-
 #EXTINF:-1, TELEFE OP2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
-
-#EXTINF:-1, NACIONAL GEOGRAPHIC CHANNEL
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278637.m3u8
-
 #EXTINF:-1, NAT GEO OP 2
 http://190.119.43.180:8000/play/a0s4/index.m3u8
-
-#EXTINF:-1, LOVE NATURE
-http://nocable.cc:8080/live/PyRR3Hy/DthK0fv/47324.m3u8
-
-#EXTINF:-1, ANIMAL PLANET
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278617.m3u8
-
 #EXTINF:-1, ANIMAL PLANET OP2
 http://190.119.43.180:8000/play/a0zf/index.m3u8
-
-#EXTINF:-1, HISTORY MX
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/305646.m3u8
-
 #EXTINF:-1, HISTORY PREMIUM
 http://190.119.43.180:8000/play/a0s8/index.m3u8
-
 #EXTINF:-1, H2
 http://190.119.43.180:8000/play/a0zl/index.m3u8
-
-#EXTINF:-1, H2 OP2
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278629.m3u8
-
 #EXTINF:-1, DISCOVERY CHANNEL MX
 http://190.119.43.180:8000/play/a0w3/index.m3u8
-
-#EXTINF:-1, DISCOVERY CHANNEL OP2
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278618.m3u8
-
-#EXTINF:-1, DISCOVERY FAMILY
-http://super-iptv.live:80/110366811170D/162411098190/312557
-
 #EXTINF:-1, DISCOVERY SCIENCE
 http://190.119.43.180:8000/play/a0v5/index.m3u8
-
-#EXTINF:-1, DISCOVERY H&H
-http://190.119.43.180:8000/play/a0ws/index.m3u8
-
 #EXTINF:-1, DISCOVERY H&H HD
 http://190.60.37.154:45000/play/a059/index.m3u8
-
-#EXTINF:-1, HGTV
-http://00322.xyz:8000/live/saabj84/CNGUPDY6RA/4815.ts
-
-#EXTINF:-1, HGTV OP2
-http://hdhd.tk:80/tvuser114/23Panthers19/645
-
 #EXTINF:-1, DISCOVERY TURBO
 http://190.60.37.154:45000/play/a04s/index.m3u8
-
-#EXTINF:-1, DISCOVERY TURBO OP 2
-http://200.59.188.3:8000/play/a045
-
-#EXTINF:-1, DISCOVERY WORLD
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278625.m3u8
-
-#EXTINF:-1, DISCOVERY WORLD OP 2
-http://190.119.43.180:8000/play/a0yr/index.m3u8
-
 #EXTINF:-1, DISCOVERY ID
 http://190.119.43.180:8000/play/a0s6/index.m3u8
-
 #EXTINF:-1, DISCOVERY ID OP2
 http://190.60.37.154:45000/play/a044/index.m3u8
-
 #EXTINF:-1, DISCOVERY THEATER
 http://190.60.37.154:45000/play/a05g/index.m3u8
-
 #EXTINF:-1, DISCOVERY THEATER OP 2
 http://190.119.43.180:8000/play/a0wt/index.m3u8
-
 #EXTINF:-1, DISCOVERY TLC
 http://209.126.106.30:8081/live/4757ada4db09488e8b909a71b9af3b8d/2ee168e8cc864d32baee88eed347be4b/49.m3u8
-
-#EXTINF:-1, DISCOVERY TLC OP 2
-http://38.43.150.125:8000/play/a022/index.m3u8
-
-#EXTINF:-1, TOONCAST
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9883
-
 #EXTINF:-1, TOONCAST OP 2
 http://200.115.120.1:8000/play/ca090/index.m3u8
-
-#EXTINF:-1, DISCOVERY KIDS MX
-http://190.119.43.180:8000/play/a0yu/index.m3u8
-
 #EXTINF:-1, DISCOVERY KIDS PREMIUM
 http://190.60.37.154:45000/play/a035/index.m3u8
-
 #EXTINF:-1, NICKELODEO
 http://190.119.43.180:8000/play/a0w1/index.m3u8
-
-#EXTINF:-1, NICK OP 2
-http://hmbqa6.sekkd.com:80/live/amy5_y3zf4s/gnutz2k9/44.m3u8
-
-#EXTINF:-1, NICK TEEN
-http://177.53.153.20:8001/play/a0uq/index.m3u8
-
-#EXTINF:-1, NICK TEEN OP2
-http://190.61.102.67:8000/play/a04l
-
-#EXTINF:-1, CARTOON NETWORK
-http://190.119.43.180:8000/play/a0wm/index.m3u8
-
 #EXTINF:-1, CARTOON NETWORK HD
 http://190.60.37.154:45000/play/a030/index.m3u8
-
 #EXTINF:-1, DISNEY CHANNEL
 http://190.60.37.154:45000/play/a03b/index.m3u8
-
 #EXTINF:-1, DISNEY CHANNEL OP 2
 http://190.119.43.180:8000/play/a0zt/index.m3u8
-
-#EXTINF:-1, CARTOONITO
-http://190.119.43.180:8000/play/a0zp/index.m3u8
-
 #EXTINF:-1, CARTOONITO OP2
 http://200.115.120.1:8000/play/ca006/index.m3u8
-
-#EXTINF:-1, BIT ME
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278522.m3u8
-
-#EXTINF:-1, LOCOMOTION
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, BABY TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL116/PROFILE03.m3u8
-
-#EXTINF:-1, NICK JR
-http://190.119.43.180:8000/play/a0us/index.m3u8
-
 #EXTINF:-1, NICK JR OP 2
 http://190.60.37.154:45000/play/a04r/index.m3u8
-
 #EXTINF:-1, DISNEY JR
 http://190.60.37.154:45000/play/a03a/index.m3u8
-
-#EXTINF:-1, DISNEY JR OP2
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9868
-
-#EXTINF:-1, BABY FIRST
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1984/PROFILE03.m3u8
-
-#EXTINF:-1, HBO
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278488.m3u8
-
-#EXTINF:-1, HBO OP2
-http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/105.ts
-
-#EXTINF:-1, HBO2
-http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/100.ts
-
-#EXTINF:-1, HBO2 OP2
-http://190.119.43.180:8000/play/a0rf/index.m3u8
-
-#EXTINF:-1, HBO PLUS
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278489.m3u8
-
 #EXTINF:-1, HBO PLUS OP2
 http://190.119.43.180:8000/play/a0zg/index.m3u8
-
-#EXTINF:-1, HBO XTREME
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278507.m3u8
-
-#EXTINF:-1, HBO XTREME OP2
-http://190.119.43.180:8000/play/a0yh/index.m3u8
-
 #EXTINF:-1, HBO FAMILY
 http://190.119.43.180:8000/play/a0rq/index.m3u8
-
 #EXTINF:-1, HBO FAMILY OP2
 http://190.60.37.154:45000/play/a055/index.m3u8
-
-#EXTINF:-1, HBO MUNDI
-http://199.127.63.105:8989/278500_.m3u8
-
-#EXTINF:-1, HBO MUNDI OP2
-http://play.flamaplus.tv:80/play/hUAC2XCgtW0N0759MiAJMF7XDvfyI18jH4u5BKWy8IA/ts
-
-#EXTINF:-1, HBO POP
-http://199.127.63.105:8989/278502_.m3u8
-
-#EXTINF:-1, HBO POP OP2
-http://play.flamaplus.tv:80/play/hUAC2XCgtW0N0759MiAJMMjzeLc7sN2qTL0Oi0Y0_ak/ts
-
-#EXTINF:-1, HBO SIGNATURE
-http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/62790
-
-#EXTINF:-1, UNIVERSAL CRIME
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278474.m3u8
-
-#EXTINF:-1, UNIVERSAL REALITY
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278478.m3u8
-
-#EXTINF:-1, UNIVERSAL PREMIER
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278476.m3u8
-
-#EXTINF:-1, UNIVERSAL CINEMA
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278472.m3u8
-
-#EXTINF:-1, UNIVERSAL COMEDY
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278473.m3u8
-
-#EXTINF:-1, DISTRITO COMEDIA
-http://200.115.98.26:9000/play/a01p/index.m3u8
-
-#EXTINF:-1, DISTRITO COMEDIA OP2
-http://tv14s.xyz:8080/FxQ7fU/508292/57639a
-
 #EXTINF:-1, COMEDY CENTRAL
 http://200.115.120.1:8000/play/ca108/index.m3u8
-
-#EXTINF:-1, COMEDY CENTRAL OP2
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278409.m3u8
-
 #EXTINF:-1, STAR CHANNEL HD
 http://190.119.43.180:8000/play/a0yl/index.m3u8
-
 #EXTINF:-1, STAR CHANNEL HD OP2
 http://190.60.37.154:45000/play/a02y/index.m3u8
-
 #EXTINF:-1, FX HD
 http://190.119.43.180:8000/play/a0vv/index.m3u8
-
 #EXTINF:-1, FX HD OP2
 http://190.60.37.154:45000/play/a05e/index.m3u8
-
-#EXTINF:-1, SUNDANCE
-http://lobo-tv.live:8080/Daleplayperu52/tVFeXytHnZ/2100619
-
-#EXTINF:-1, A3 SERIES
-http://190.97.183.98:8000/play/a080/index.m3u8
-
-#EXTINF:-1, A3 SERIES OP2
-http://38.41.8.1:8000/play/a00x
-
 #EXTINF:-1, SONY CHANNEL
 http://190.119.43.180:8000/play/a0s5/index.m3u8
-
-#EXTINF:-1, SONY CHANNEL OP2
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278405.m3u8
-
-#EXTINF:-1, UNIVERSAL HD
-http://38.41.8.1:8000/play/a04r
-
 #EXTINF:-1, UNIVERSAL HD OP2
 http://190.119.43.180:8000/play/a0sa/index.m3u8
-
 #EXTINF:-1, STUDIO UNIVERSAL
 http://190.119.43.180:8000/play/a0xo/index.m3u8
-
 #EXTINF:-1, STUDIO UNIVERSAL OP2
 http://190.60.37.154:45000/play/a038/index.m3u8
-
-#EXTINF:-1, WARNER HD
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278453.m3u8
-
-#EXTINF:-1, WARNER HD OP2
-http://190.119.43.180:8000/play/a0vx/index.m3u8
-
-#EXTINF:-1, TNT
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278519.m3u8
-
 #EXTINF:-1, TNT OP2
 http://190.119.43.180:8000/play/a0zs/index.m3u8
-
 #EXTINF:-1, TNT SERIES
 http://200.115.120.1:8000/play/ca035/index.m3u8
-
 #EXTINF:-1, TNT SERIES OP2
 http://200.115.120.1:8000/play/ca035/index.m3u8
-
 #EXTINF:-1, SPACE
 http://190.60.37.154:45000/play/a04o/index.m3u8
-
 #EXTINF:-1, SPACE OP2
 http://190.119.43.180:8000/play/a0vu/index.m3u8
-
-#EXTINF:-1, PANICO
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278511.m3u8
-
 #EXTINF:-1, A&E
 http://190.60.37.154:45000/play/a03j/index.m3u8
-
-#EXTINF:-1, A&E OP 2
-http://190.119.43.180:8000/play/a0yq/index.m3u8
-
 #EXTINF:-1, AMC
 http://190.119.43.180:8000/play/a0l2/index.m3u8
-
-#EXTINF:-1, AMC OP 2
-http://tv14s.xyz:8080/FxQ7fU/508292/18925
-
 #EXTINF:-1, AXN
 http://190.119.43.180:8000/play/a0s9/index.m3u8
-
 #EXTINF:-1, AXN OP 2
 http://190.60.37.154:45000/play/a04n/index.m3u8
-
-#EXTINF:-1, PARAMOUNT
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9708
-
 #EXTINF:-1, PARAMOUNT OP 2
 http://200.115.120.1:8000/play/ca115/index.m3u8
-
 #EXTINF:-1, CINEMAX
 http://190.119.43.180:8000/play/a0wk/index.m3u8
-
 #EXTINF:-1, CINEMAX OP2
 http://190.60.37.154:45000/play/a04l/index.m3u8
-
-#EXTINF:-1, CINECANAL
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278462.m3u8
-
 #EXTINF:-1, CINECANAL OP2
 http://190.119.43.180:8000/play/a0vn/index.m3u8
-
-#EXTINF:-1, TCM
-http://200.59.188.3:8000/play/a05g
-
-#EXTINF:-1, TCM OP2
-http://190.97.183.98:8000/play/a0cb/index.m3u8
-
 #EXTINF:-1, SYFY
 http://190.119.43.180:8000/play/a0wf/index.m3u8
-
-#EXTINF:-1, SYFY OP2
-http://177.93.46.163:8000/play/a00i
-
-#EXTINF:-1, FILM & ARTS
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/9650
-
-#EXTINF:-1, FILM & ARTS OP2
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278511.m3u8
-
-#EXTINF:-1, E! OP2
-http://177.93.46.163:8000/play/a012
-
 #EXTINF:-1, GOLDEN
 http://200.115.120.1:8000/play/ca024/index.m3u8
-
-#EXTINF:-1, GOLDEN EDGE
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278479.m3u8
-
-#EXTINF:-1, GOLDEN PLUS
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278484.m3u8
-
-#EXTINF:-1, GOLDEN PREMIER
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278486.m3u8
-
-#EXTINF:-1, DE PELICULA
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278456.m3u8
-
-#EXTINF:-1, DE PELICULA PLUS
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278457.m3u8
-
 #EXTINF:-1, TELEHIT
 http://200.115.120.1:8000/play/ca016/index.m3u8
-
-#EXTINF:-1, TELEHIT OP 2
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/8315
-
-#EXTINF:-1, NICK MUSIC
-http://187.188.232.236:1020/play/a00h/index.m3u8
-
-#EXTINF:-1, VH1 HD
-http://tv.diablotv.net:8080/GeraJuvera25/m3uBHfmEeh/8320
-
-#EXTINF:-1, VH1 HD OP2
-http://2hubs.ddns.net:25461/Iptr33/aQJScdWR8n9r/62673
-
 #EXTINF:-1, VH1 CLASSIC
 http://200.115.120.1:8000/play/ca093/index.m3u8
-
-#EXTINF:-1, MTV HITS
-http://45.4.85.214:58001/play/a00z
-
-#EXTINF:-1, MTV LIVE
-http://tv14s.xyz:8080/FxQ7fU/508292/53734
-
-#EXTINF:-1, MTV LIVE OP2
-http://45.228.232.219:16000/play/a0m4/index.m3u8
-
-#EXTINF:-1, MTV
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278601.m3u8
-
 #EXTINF:-1, MTV OP 2
 http://200.115.120.1:8000/play/ca086/index.m3u8
-
-#EXTINF:-1, MTV DANCE
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
 #EXTINF:-1, BANDAMAX
 http://200.115.120.1:8000/play/ca84/index.m3u8
-
 #EXTINF:-1, TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1, VIDEOROLA
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
-
-#EXTINF:-1, LATINO UP
-https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, MUSICA TOP
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
-#EXTINF:-1, ON RADIO CHILE KPOP
-https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
-
-#EXTINF:-1, TOP MUSIC
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
-
-#EXTINF:-1, TVEXITOS
-https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, MUSICA POP
-https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
-
-#EXTINF:-1, MUSICA ROCK
-https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
-
-#EXTINF:-1, MUSICA HITS
-https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
-
-#EXTINF:-1, MUSICA REMEMBER
-https://livelist01.yowi.tv:443/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
-
-#EXTINF:-1, MUSICA RELAX
-https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
-
-#EXTINF:-1, MUSICA LATIN
-https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
-
-#EXTINF:-1, MUSICA HIP HOT
-https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
-
-#EXTINF:-1, MUSICA GYM
-https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master.m3u8
-
-#EXTINF:-1, MUSICA CHILL OUT
-https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
-
-#EXTINF:-1, MUSICA BALADAS
-}https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
-
-#EXTINF:-1, MUSICA FLOK
-https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
-
-#EXTINF:-1, MUSICA DANCE
-https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
-
-#EXTINF:-1, MUSICA ARABIC
-https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8
-
-#EXTINF:-1, MUSICA SPANISH
-https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
-
-#EXTINF:-1, MUSICA BLUES
-https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
-
-#EXTINF:-1, MUSICA CLASSIC
-https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
-
-#EXTINF:-1, MUSICA JAZZ
-https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
-
-#EXTINF:-1, MUSICA KIDS
-https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
-
 #EXTINF:-1, Retro Music Television
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, The Retro Channel
-https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, RadioTV.pro
-https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1, Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1, PLUTO TV CINE ACCION
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=397886a0-cd21-11eb-bd6e-0242ac110002&sid=397886a0-cd21-11eb-bd6e-0242ac110002&userId=
-
-#EXTINF:-1, PLUTO TV ESTRELLAS DE ACCION
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5e972a21ad709d00074195ba/3063648/playlist.m3u8?terminate=false&sid=ec3916f9-d8a2-11ed-b3fa-9ade4221ac90&deviceDNT=0&deviceLat=19.2663&deviceLon=-99.5828&deviceModel=web&deviceVersion=111.0.5563&includeExtendedEvents=true&paln=AQzzBGQEkIY6en3NFIKV4cLQdK3X9MEwEsM_AU0LOvSWyz8gC4lw-sdd6Q6K2JrezBe-bVwwwhCxql74vXpYcuRb1eml4Zj-O49uCtK01Lt6As7H9zN6BHgMk_F8pVBxSD9kL5nc0OwczGzZL3VWwml08AeuJvtX0cchCbOiZ-o96CBDANTDsf1kuyFAdZqO_6XUMmG8V18twX8OlqWGScrJ4yA9W0qO4qbqoquhWoq0u6YvdJyGqnxooeUd8IA848Uox73-LojS8WrpSIS4L4a5XH-gyXQNnNVV8wox5GWu1n56Rf_oWCUI65c_7IkTD-ShqWGxrxXB8h-zsI21cG99PGmXInGqhALSgSm9n8HYMhSoJXwS-awdO1TFwMmdTWsUV5CM0gersKWJ2PS8zhKBY8Se-lWsWejJSrkVFLMI-9dveFNFdGje93EwnaUPvZmmgKOlbmXuvsfGl6Zbwz8N1FkfK_9Zx5v0qYPlubVhPvzjA87XPERv98ry1Ap3tC8OfubKnJLx44NLq6LvJWEFQTycaeAU7qwoc_h2IG7X26V6-s4kB_GCSDn9KJmE_6_B8UGMIYbnj2coPJNI5JtYFM9Exu18QKo39RAB_xy_OmLbpYaf8VnbrJ-X9p0ZMIcR1qA43uPccsD9e9mhtjiERRupCuzHUDeJCJWTVq445mq1hJVNmwqVb-d30lkLjnyuqP_dPJFYyn1Y8Vy7WHIEHro3zXl1RA52WYaHOOjjtVsUv7O9qGkiUk0pHKCK0B_a50vVtiP3VB2FGiHr7Cqn9lWg0FD5Tjy3eYjTlBs-TBFhJYCAUI1kMhxrShLVXFaRSpPGYp6hprjE15kxNSMwgKoGzhS_K-07xHFq7PcqNzxdrJM165iDGDkdV53umM_XwjQvwSofORdYTf_yEKVfJY3yllPlmQfWrv1GV6-AG18t_RawzrlWBcSoimParkTqVl_vL_3vXrGXZVAD1oTnbjLlPOcW7uG2ftARtt_8Y0EOa69cd49wrmY_VCvIuHwM1Rc5EBMGZ87QRhF4EVcAaJbBNNCHw1sbFGC9cKtv6ndP4GqjZcwTAgpQ98WyIus8rJiNaQ6n8qYg_ypzZT8aPBcMfYchIXSJjh2cS0ptXSknD3eJ2dwtOEPfBMDW3VfItQ1681RsMf1JqdOlwIiadPgP3h6VXUPON9V-nnc0-T60T06zEbN01OQaBfeVYK5h0DugDaIAM71XwYpZ4n6RZ6H8qTlTFaDG8tPtHgFpOBEeIYhr-HgXqvsLAJnYHhJfWG_LWDo0ytkFSzyc2W_IcJnaMI8fX-Au-hV7WLdOkoBAfhe7CN7q9gJP1dxUzk9IXhJ9Fw3d8NWVBgoGY_qTyWglQnhDK-DwKyNo3Tzaa64_wDokyNdlgQQ5BiOSsbS4JCltPfaIzAlPtJU3u-zi9bxF7hKnrvnTXol1tLUXfPmzr2iq6MlWXJ7x6qzAMSp40yZNrkVQPZLCuUspLwy0RGdzj5hN0p0KB0mVG8fSFB5vga9dDUrs_HrQ7MGkYVO0tp3FZtdv4bfBGLV2oPD5bk19KZ1yDUUUynGWkPJwW5jTKSYnNHCz1opfcrxmGQk5-PE0F_ST-EQuAXB1-Gb_iYcfbKd_qC6K3j19fW-DI2aEa980l8Rl1633oitiCe0J_Suc8EPL2h1rMESCN_ubzZYxLkBpAa6DGK0eu-aO2rtqe3uW2g7MnqLtVIWjBHxMLmqRBfFXDwIUktCrnJFtDsXEeXSSSuE.&serverSideAds=true&appName=web&deviceId=0296d0b2-acef-4770-b9b5-65ea9c7a446c&appVersion=6.11.1-518d6dea293334a5d23e9fd9322e2bfc2744cda3&deviceType=web&deviceMake=chromium-webview&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJhMzQ1MDFiLWE2NzItNGI3OC04NzYxLWY2ODMzNmZkYzViNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJlYzM5MTZmOS1kOGEyLTExZWQtYjNmYS05YWRlNDIyMWFjOTAiLCJjbGllbnRJUCI6IjI4MDY6MTA0ZToxMzo4Mzk3OjRkZDplODAxOmMxOTc6NjIyOSIsImNpdHkiOiJNZXRlcGVjIiwicG9zdGFsQ29kZSI6IjUyMTcyIiwiY291bnRyeSI6Ik1YIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6MTkuMjY2MywiZGV2aWNlTG9uIjotOTkuNTgyOCwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTExLjAuNTU2MyIsImRldmljZU1ha2UiOiJjaHJvbWl1bS13ZWJ2aWV3IiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMTEuMS01MThkNmRlYTI5MzMzNGE1ZDIzZTlmZDkzMjJlMmJmYzI3NDRjZGEzIiwiY2xpZW50SUQiOiIwMjk2ZDBiMi1hY2VmLTQ3NzAtYjliNS02NWVhOWM3YTQ0NmMiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9NZXhpY29fQ2l0eSIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpNREk1Tm1Rd1lqSXRZV05sWmkwME56Y3dMV0k1WWpVdE5qVmxZVGxqTjJFME5EWmoiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjgxMzI5Mzc3LCJpYXQiOjE2ODEyNDI5NzcsImp0aSI6IjRmODMzZWJmLTIzNWUtNDU1NS05NTQ2LWEwMzk1YTllN2U0MyJ9.SfeGtDyz_u1hs2p1KS3xtS81TgvIf_Kymy5lCidXcp8&CMCD=mtp%3D33600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%223f0cb418-979b-4826-af30-28cd360caad1%22%2Csu
-
 #EXTINF:-1, PLUTO TV CINE SUSPENSO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=f5b68be6-cd20-11eb-a259-0242ac110002&sid=f5b68be6-cd20-11eb-a259-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV CINE TERROR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=7ad41cf4-cd21-11eb-85d6-0242ac110002&sid=7ad41cf4-cd21-11eb-85d6-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV CINE ESTELAR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=ee36ed29-cd21-11eb-8734-0242ac110002&sid=ee36ed29-cd21-11eb-8734-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV CINE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=342c0a11-cd22-11eb-b2c8-0242ac110002&sid=342c0a11-cd22-11eb-b2c8-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV CINE CLASICO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&country=MX&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=abf84c6a-d2f6-11eb-96d3-0242ac110002&sid=abf84c6a-d2f6-11eb-96d3-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV SERIES RETRO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5069cb34-cd22-11eb-888c-0242ac110002&sid=5069cb34-cd22-11eb-888c-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV RETRO CARTOONS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?advertisingId=&appName=web&appVersion=5.106.0-fb1fedbd64193f9db000f97c44ce29de6b0bb9d5&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5069cb34-cd22-11eb-888c-0242ac110002&sid=5069cb34-cd22-11eb-888c-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV RIPLEYS BELIEVE IT OR NOT
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079bcbd9b10880007bf8e2d/master.m3u8?advertisingId=&appName=web&appVersion=5.106.0-f3e2ac48d1dbe8189dc784777108b725b4be6be2&app_name=web&clientDeviceType=0&clientID=1d32070e-dae1-4f58-bd0d-f5c74f89cd0f&clientModelNumber=1.0.0&country=MX&deviceDNT=true&deviceId=1d32070e-dae1-4f58-bd0d-f5c74f89cd0f&deviceLat=19.2663&deviceLon=-99.5828&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=96.0.4664&marketingRegion=VE&serverSideAds=true&sessionID=e9e5ef8e-6604-11ec-a1cf-0242ac110003&sid=e9e5ef8e-6604-11ec-a1cf-0242ac110003&userId=
-
 #EXTINF:-1, PLUTO TV HISTORIAS DE ULTRATUMBA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.6716&deviceLon=-98.8178&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=854d05b0-cd22-11eb-859f-0242ac110002&sid=854d05b0-cd22-11eb-859f-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV MISTERIOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=9e4540bb-cd22-11eb-8afd-0242ac110002&sid=9e4540bb-cd22-11eb-8afd-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV HISTORIA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b81abf51-cd22-11eb-859f-0242ac110002&sid=b81abf51-cd22-11eb-859f-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV NOVELAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=e505616f-cd22-11eb-a8b9-0242ac110002&sid=e505616f-cd22-11eb-a8b9-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV MTV CLASSIC
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=0460f0fa-cd23-11eb-859f-0242ac110002&sid=0460f0fa-cd23-11eb-859f-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV MTV PRANKS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.6716&deviceLon=-98.8178&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1fcf5748-cd23-11eb-8f91-0242ac110002&sid=1fcf5748-cd23-11eb-8f91-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV MTV ANIMACIONES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=9f8a16fb-cd23-11eb-ad20-0242ac110002&sid=9f8a16fb-cd23-11eb-ad20-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV COMPETENCIAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=4130ed0c-cd23-11eb-8382-0242ac110002&sid=4130ed0c-cd23-11eb-8382-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV WIPEOUT
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=68155ab1-cd23-11eb-af82-0242ac110002&sid=68155ab1-cd23-11eb-af82-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV HUMOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=bf28769c-cd23-11eb-8497-0242ac110002&sid=bf28769c-cd23-11eb-8497-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV COMEDY CENTRAL
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=d33f16fe-cd23-11eb-8382-0242ac110002&sid=d33f16fe-cd23-11eb-8382-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV NICK CLASSIC
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=51de56d7-cd24-11eb-9091-0242ac110002&sid=51de56d7-cd24-11eb-9091-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV NICK TEENNICK
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=8b711b0f-cd24-11eb-bb4c-0242ac110002&sid=8b711b0f-cd24-11eb-bb4c-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV NICK PAISAJES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fed840a2764000720d966/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b402df8c-cd24-11eb-993e-0242ac110002&sid=b402df8c-cd24-11eb-993e-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV NICK ANIMALES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=68ca370d-cd25-11eb-8a72-0242ac110002&sid=68ca370d-cd25-11eb-8a72-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV NICK CONCIERTOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=0098c5c8-cd24-11eb-98a9-0242ac110002&sid=0098c5c8-cd24-11eb-98a9-0242ac110002&userId=
-
 #EXTINF:-1, PLUTO TV ANIMES HEROES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?advertisingId=&appName=web&appVersion=5.106.0-f3e2ac48d1dbe8189dc784777108b725b4be6be2&app_name=web&clientDeviceType=0&clientID=1d32070e-dae1-4f58-bd0d-f5c74f89cd0f&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=0098c5c8-cd24-11eb-98a9-0242ac110002&sid=0098c5c8-cd24-11eb-98a9-0242ac110002&userId=
-
-#EXTINF:-1, ESPN EXTRA
-http://200.115.98.26:9000/play/a044/index.m3u8
-
-#EXTINF:-1, ESPN EXTRA OP2
-http://45.5.117.182:8000/play/a0kg/index.m3u8
-
-#EXTINF:-1, ESPN
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278578.m3u8
-
-#EXTINF:-1, ESPN OP 2
-http://181.188.234.21:8000/play/a041/index.m3u8
-
 #EXTINF:-1, ESPN 2
 http://190.60.37.154:45000/play/a039/index.m3u8
-
-#EXTINF:-1, ESPN 2 OP 2
-http://190.119.43.180:8000/play/a0yc/index.m3u8
-
-#EXTINF:-1, ESPN 3
-http://190.119.43.180:8000/play/a0ye/47753062.m3u8
-
 #EXTINF:-1, ESPN 3 OP 2
 http://190.60.37.154:45000/play/a04u/index.m3u8
-
-#EXTINF:-1, ESPN 4
-http://177.93.46.163:8000/play/a01j
-
 #EXTINF:-1, ESPN SPORTS PREMIUM
 http://190.119.43.180:8000/play/a0yz/index.m3u8
-
-#EXTINF:-1, FOX SPORTS PREMIUM
-http://199.127.63.105:8989/278598_.m3u8
-
-#EXTINF:-1, FOX SPORTS
-http://199.127.63.105:8989/278595_.m3u8
-
 #EXTINF:-1, FOX SPORTS OP 2
 http://daleplay.club:8080/live/NNE5379khh/playec356nm/fc00ed7b-a8a6-4727-9b02-c69226282aa3.m3u8
-
-#EXTINF:-1, FOX SPORT 2
-http://199.127.63.105:8989/278590_.m3u8
-
-#EXTINF:-1, FOX SPORT 2 OP 2
-http://199.127.63.105:8989/278590_.m3u8
-
 #EXTINF:-1, FOX SPORT 3
 http://190.60.37.154:45000/play/a03o/index.m3u8
-
 #EXTINF:-1, FOX SPORT 3 OP 2
 http://190.60.37.154:45000/play/a03o/index.m3u8
-
 #EXTINF:-1, FUTBOL NETWORK
 https://59d39900ebfb8.streamlock.net:443/8312/8312/playlist.m3u8
-
-#EXTINF:-1, DIRECTV SPORTS
-http://user.tvcluboficial.com/live/m/m/259.m3u8
-
-#EXTINF:-1, DIRECTV SPORTS 2
-http://user.tvcluboficial.com/live/m/m/667.m3u8
-
-#EXTINF:-1, DIRECTV SPORTS PLUS
-http://user.tvcluboficial.com/live/m/m/935.m3u8
-
-#EXTINF:-1, UNIVISION TUDN
-http://tv14s.xyz:8080/FxQ7fU/508292/11885
-
-#EXTINF:-1, AFIZZIONADOS
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/269758.ts
-
-#EXTINF:-1, TUDN HD
-http://user.tvcluboficial.com/live/m/m/698.m3u8
-
-#EXTINF:-1, GOLTV
-http://200.115.98.26:9000/play/a00q/index.m3u8
-
-#EXTINF:-1, GOLTV 2
-http://181.78.105.146:2000/play/a094/index.m3u8
-
 #EXTINF:-1, TNT SPORTS
 http://200.115.120.1:8000/play/ca040/index.m3u8
-
-#EXTINF:-1, TNT SPORTS HD
-http://200.113.4.75:7210/play/a011/index.m3u8
-
-#EXTINF:-1, CANAL DEL DEPORTE OLIMPICO
-http://streamsy.online:2999/happy2024/newyear/1707
-
-#EXTINF:-1, TVC DEPORTES
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2157/PROFILE03.m3u8
-
-#EXTINF:-1, AYM SPORTS
-http://streamsy.online:2999/happy2024/newyear/2873
-
-#EXTINF:-1, AYM SPORTS OP2
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE03.m3u8
-
-#EXTINF:-1, CLARO SPORTS
-http://tecnozone.site:8880/live/Danielhy829/Daniel-829h/68.m3u8
-
-#EXTINF:-1, CLARO SPORTS OP2
-http://45.167.3.81:45000/play/a00h/index.m3u8
-
-#EXTINF:-1, CLARO SPORTS 2
-http://45.167.3.81:45000/play/a00i/index.m3u8
-
-#EXTINF:-1, ADRENALINA SPORTS HD
-http://104.238.205.28:8989/278573_.m3u8
-
-#EXTINF:-1, MOVISTAR SPORTS
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/1264.ts
-
-#EXTINF:-1, MOVISTAR LA LIGA
-http://streamsy.online:2999/happy2024/newyear/1774
-
-#EXTINF:-1, WIN SPORTS
-http://zorrohunter.com:8080/haw5UJfF68/1729172230/46835
-
-#EXTINF:-1, WIN SPORTS PLUS
-http://streamsy.online:2999/happy2024/newyear/1417
-
-#EXTINF:-1, BEIN SPORTS
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50421.m3u8
-
-#EXTINF:-1, TIGO SPORTS
-http://45.5.117.172:8000/play/a02v/index.m3u8
-
-#EXTINF:-1, TYCSPORTS
-http://45.166.92.22:58001/play/a04d/index.m3u8
-
-#EXTINF:-1, ALF
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/744
-
-#EXTINF:-1, ANIMANIACS
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/333
-
-#EXTINF:-1, BOB SPONGE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
-
-#EXTINF:-1, EL CHAVO DEL OCHO
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/11527.ts
-
-#EXTINF:-1, CHAPULIN COLORADO
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/338
-
-#EXTINF:-1, CORRECAMINOS
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/248674.ts
-
-#EXTINF:-1, FUTURAMA
-http://tvpremium.pro:80/play/Bz8c0IoIkPIpAfOftexg6b9u9rjKi9mTcquvrhG5wto/ts
-
-#EXTINF:-1, PANTERA ROSA
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/248612.ts
-
-#EXTINF:-1, DINOSAURIOS
-http://tvpremium.pro:80/play/Bz8c0IoIkPIpAfOftexg6cWsBBhoFXlCvxcmbA60OM0/ts
-
-#EXTINF:-1, 24/7 DREAMWORKS
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/297294.ts
-
-#EXTINF:-1, 24/7 DISNEY PIXAR
-http://tvpremium.pro:80/play/Bz8c0IoIkPIpAfOftexg6RkNEwAQE05umnH7EvaII98/ts
-
-#EXTINF:-1, 24/7 MARVEL
-http://tvpremium.pro:80/play/Bz8c0IoIkPIpAfOftexg6Uh4MzGf8Yg7LR0lpiL8Oa8/ts
-
-#EXTINF:-1, DRAGON BALL
-http://tvpremium.pro:80/play/Bz8c0IoIkPIpAfOftexg6cS9r6efEEJJYjNaSjBwDfg/ts
-
-#EXTINF:-1, DRAGON BALL Z
-http://tvpremium.pro:80/play/Bz8c0IoIkPIpAfOftexg6ayqoTQr0WYIHxY0Y4Op1tw/ts
-
-#EXTINF:-1, DRAGON BALL GT
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/783
-
-#EXTINF:-1, DRAGON BALL SUPER
-http://tvpremium.pro:80/play/Bz8c0IoIkPIpAfOftexg6fOyNiIorW8yCP-893cUOeo/ts
-
 #EXTINF:-1, NARUTO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=eba192f4-cd23-11eb-9091-0242ac110002&sid=eba192f4-cd23-11eb-9091-0242ac110002&userId=
-
-#EXTINF:-1, CABALLEROS DEL ZODIACO
-http://tvpremium.pro:80/play/Bz8c0IoIkPIpAfOftexg6S9ewlSMCc65V8SANKVqYMI/ts
-
-#EXTINF:-1, THE THEORY OF BIG BANG
-http://tvpremium.pro:80/play/Bz8c0IoIkPIpAfOftexg6W38_y_aK8495valDVAUe8I/ts
-
-#EXTINF:-1, LOS SIMPSON
-http://tvpremium.pro:80/play/Bz8c0IoIkPIpAfOftexg6SkUcNh3_TC4Ca_VdgNnnoY/ts
-
-#EXTINF:-1, THUNDERCATS
-http://gzytv.vip:8880/43bwCE8ZXz/s8dMgq7bcV/2621
-
-#EXTINF:-1, MALCOLM EL DE EN MEDIO
-http://tvpremium.pro:80/play/Bz8c0IoIkPIpAfOftexg6fauPUlR2q1aO9GQd4uGnAo/ts
-
-#EXTINF:-1, MOVISTAR ACCION
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117233
-
-#EXTINF:-1, MOVISTAR CINE
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117337
-
-#EXTINF:-1, MOVISTAR SERIES
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117242
-
-#EXTINF:-1, MOVISTAR ESTRENOS
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117242
-
-#EXTINF:-1, MOVISTAR COMEDIA
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117238
-
-#EXTINF:-1, GOL PERU
-https://castlempire.site:443/esteb5982roj/CchZQLdGB3/256890.ts
-
-#EXTINF:-1, ATV
-https://miap.xyz/224/serverkey.m3u8
-
-#EXTINF:-1, TV PERU
-http://144.126.128.123:25461/manoapoyanos/shortgod.com/11626
-
 #EXTINF:-1, OVACION
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
-#EXTINF:-1, CENTRAL TV
-http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
-
-#EXTINF:-1, TV PERU NOTICAS
-http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-
 #EXTINF:-1, LATINA PERU
 https://kokoapps.xyz/ch2.php?ch=latina.html&f=.m3u8
-
 #EXTINF:-1, BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
-#EXTINF:-1, 24 TV CULTURALES
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
-
-#EXTINF:-1, IPe
-http://l3d.us:8080/4Lxx4KOD/WHGnYwuGFs/155855
-
-#EXTINF:-1, CANAL N
-http://181.198.239.34:58003/play/a014/index.m3u8
-
-#EXTINF:-1, PANAMERICANA TV
-http://l3d.us:8080/4Lxx4KOD/WHGnYwuGFs/10628
-
-#EXTINF:-1, TYPE
-https://miap.xyz/235/serverkey.m3u8
-
-#EXTINF:-1, EXITOSA
-https://cu.onliv3.com/livevd1/user2.m3u8
-
 #EXTINF:-1, CNN INTERNACIONAL
 http://200.115.120.1:8000/play/ca045/index.m3u8
-
-#EXTINF:-1, CNN INTERNACIONAL OP2
-http://181.189.243.217:8000/play/a0o7/index.m3u8
-
 #EXTINF:-1, CNN EN ESPAÑOL
 http://200.115.120.1:8000/play/ca044/index.m3u8
-
-#EXTINF:-1, CNN EN ESPAÑOL OP2
-http://181.189.243.217:8000/play/a0ps/index.m3u8
-
-#EXTINF:-1, CNN CHILE
-http://170.83.242.9:4000/play/a036
-
-#EXTINF:-1, ADN40
-http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/38
-
-#EXTINF:-1, ADN40 OP2
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE03.m3u8
-
-#EXTINF:-1, BLOOMBERG
-http://51.222.43.170:8001/cristiancl/cirtianiptv/282744
-
-#EXTINF:-1, BLOOMBERG OP2
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL190/PROFILE03.m3u8
-
-#EXTINF:-1, 24HORAS
-http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
-
-#EXTINF:-1, MILENIO
-http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/33
-
-#EXTINF:-1, MISSION IMPOSIBLE SENTENCIA FINAL
-http://84.54.185.70:8022/Moves%202025/Mission.Impossible.The.Final.Reckoning.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-RDNYB.mkv
-
-#EXTINF:-1, LILO Y STITCH 2025
-http://84.54.185.70:8022/Moves%202025/Lilo%20and%20Stitch%202025%201080p%20WEBRip%20x264%20READ%20NFO-SyncUp/Lilo%20and%20Stitch%202025%201080p%20WEBRip%20x264%20READ%20NFO-SyncUp.mkv
-
-#EXTINF:-1, NADIE 2
-http://84.54.185.70:8022/Moves%202025/Nobody.2.2025.720p.WEBRip.x265.DD5.1-TuKCo/Nobody.2.2025.720p.WEBRip.x265.DD5.1-TuKCo.mkv
-
-#EXTINF:-1, ¿Y DONDE ESTA EL POLICIA?
-http://84.54.185.70:8022/Moves%202025/The.Naked.Gun.2025.576p.WEBRip.x265.DD5.1-TuKCo/The.Naked.Gun.2025.576p.WEBRip.x265.DD5.1-TuKCo.mkv
-
-#EXTINF:-1, SUPERMAN
-http://84.54.185.70:8022/Moves%202025-2/Superman%202025%20Hybrid%201080p%20UHD%20BluRay%20DD+5.1%20Atmos%20DV%20HDR10+%20x265-HiDt.mkv
-
-#EXTINF:-1, JURASSIC WORLD: RENACE
-http://84.54.185.70:8022/Moves%202025/Jurassic.World.Rebirth.2025.MULTi.1080p.HDTS-SyncUP/Jurassic.World.Rebirth.2025.MULTi.1080p.HDTS-SyncUP.mkv
-
-#EXTINF:-1, LOS 4 FANTASTICOS: PRIMEROS PASOS
-http://84.54.185.70:8022/Moves%202025-2/The.Fantastic.Four.First.Steps.2025.1080p.WEB.h264-ETHEL.mkv
-
-#EXTINF:-1, F1: LA PELICULA
-http://84.54.185.70:8022/Moves%202025/F1%20The%20Movie%202025%201080p%20WEB-DL%20AAC2%200%20H%20264-TTL.mkv
-
-#EXTINF:-1, LA HORA DE LA DESAPARICION
-http://84.54.185.70:8022/Moves%202025/Weapons.2025.2160p.iT.WEB-DL.DDP5.1.DV.HDR.H.265-RDNYB.mkv
-
-#EXTINF:-1, EXTERMINIO LA EVOLUCION
-http://vod.tuxchannel.mx/peliculas/720/28%20years%20later%202025.mkv
-
-#EXTINF:-1, LA MUERTE DE UN UNICORNIO
-http://vod.tuxchannel.mx/peliculas/720/death%20of%20a%20unicorn%202025.mkv
-
-#EXTINF:-1, HAPPY GILMORE 2
-http://vod.tuxchannel.mx/peliculas/720/happy%20gilmore%202%202025.mkv
-
-#EXTINF:-1, LOS TIPOS MALOS 2
-http://vod.tuxchannel.mx/peliculas/720/the%20bad%20guys%202%202025.mkv
-
-#EXTINF:-1, PITUFOS 2025
-http://vod.tuxchannel.mx/peliculas/720/smurfs%202025.mkv
-
-#EXTINF:-1, OTRO VIERNES DE LOCOS
-http://vod.tuxchannel.mx/peliculas/720/freakier%20friday%202025.mkv
-
-#EXTINF:-1, SNOOPY PRESENTA: UN VERANO MUSICAL
-http://vod.tuxchannel.mx/peliculas/720/snoopy%20presents%20a%20summer%20musical%202025.mkv
-
-#EXTINF:-1, COMO ENTRENAR A TU DRAGON
-https://canvasolutions.com.mx/stuff/dragon.mp4
-
-#EXTINF:-1, KARATE KID LEYENDAS
-http://84.54.185.70:8022/Moves%202025/Karate.Kid.Legends.2025.576p.WEBRip.x265.AC3-TuKCo/Karate.Kid.Legends.2025.576p.WEBRip.x265.AC3-TuKCo.mkv
-
-#EXTINF:-1, DESTINO FINAL: LAZOS DE SANGRE
-http://84.54.185.70:8022/Moves%202025/Final%20Destination%20Bloodlines%202025%20Hybrid%201080p%20UHD%20BluRay%20DD+5.1%20Atmos%20x265-HiDt.mkv
-
-#EXTINF:-1, MEGAN 2.0
-http://84.54.185.70:8022/Moves%202025/M3GAN.2.0.2025.576p.WEBRip.x265.DD5.1-TuKCo/M3GAN.2.0.2025.576p.WEBRip.x265.DD5.1-TuKCo.mkv
-
-#EXTINF:-1, BAILARINA
-http://84.54.185.70:8022/Moves%202025/Ballerina.2025.1080p.Blu-ray.Remux.AVC.TrueHD.Atmos.7.1-CiNEPHiLES.mkv
-
-#EXTINF:-1, THUNDERBOLTS
-http://84.54.185.70:8022/Moves%202025/Thunderbolts.2025.576p.WEBRip.x265.AC3-TuKCo/Thunderbolts.2025.576p.WEBRip.x265.AC3-TuKCo.mkv
-
-#EXTINF:-1, JEFES DE ESTADO
-http://vod.tuxchannel.mx/peliculas/720/heads%20of%20state%202025.mkv
-
-#EXTINF:-1, HARTA
-http://vod.tuxchannel.mx/peliculas/720/straw%202025.mkv
-
-#EXTINF:-1, LAS GUERRERAS DEL K-POP
-http://stklatino.dynns.com:2082/movie/azplay1682/9010383728/82090.mp4
-
-#EXTINF:-1, EL MURO NEGRO
-http://vod.tuxchannel.mx/peliculas/720/brick%202025.mkv
-
-#EXTINF:-1, DORA Y LA BUSQUEDAD DEL SOL DORADO
-http://vod.tuxchannel.mx/peliculas/720/dora%20and%20the%20search%20for%20sol%20dorado%202025.mkv
-
-#EXTINF:-1, Z-O-M-B-I-E-S 4
-http://vod.tuxchannel.mx/peliculas/720/zombies%204%20dawn%20of%20the%20vampires%202025.mkv
-
-#EXTINF:-1, EL DIA QUE LA TIERRA EXLOTO
-https://canvasolutions.com.mx/stuff/looney.mp4
-
-#EXTINF:-1, UNA PELICULA DE MINECRAFT
-http://84.54.185.70:8022/Moves%202025/A.Minecraft.Movie.2025.1080p/A.Minecraft.Movie.2025.1080p.WEB.h264-ETHEL.mkv
-
-#EXTINF:-1, UNTIL DAWN: UNA NOCHE DE TERROR
-http://vod.tuxchannel.mx/peliculas/720/until%20dawn%202025.mkv
-
-#EXTINF:-1, LA CAIDA DEL VUELO 811
-http://tvlatino.club:2082/movie/383837SdSqLL/TMqb3xBHRZ4q/551446.mkv
-
-#EXTINF:-1, URANUS 2324: SIEMPRE NOS ENCONTRAREMOS
-http://vod.tuxchannel.mx/peliculas/720/uranus%202324%202024.mkv
-
-#EXTINF:-1, AZRAEL
-http://vod.tuxchannel.mx/peliculas/720/azrael%202024.mkv
-
-#EXTINF:-1, TIEMPO DE GUERRA
-https://canvasolutions.com.mx/stuff/warfare.mp4
-
-#EXTINF:-1, ESTRAGOS
-https://canvasolutions.com.mx/stuff/estragos.mp4
-
-#EXTINF:-1, DROP: AMENAZA ANONIMA
-https://canvasolutions.com.mx/stuff/drop.mp4
-
-#EXTINF:-1, BLANCA NIEVES
-http://vod.tuxchannel.mx/peliculas/720/snow%20white%202025.mkv
-
-#EXTINF:-1, NOVOCAINE: SIN DOLOR
-http://vod.tuxchannel.mx/peliculas/720/novocaine%202025.mkv
-
-#EXTINF:-1, BETTER MAN: LA HISTORIA DE ROBBIE WILLIANS
-http://vod.tuxchannel.mx/peliculas/720/better%20man%202024.mkv
-
-#EXTINF:-1, CAPITAN AMERICA: UN NUEVO MUNDO
-http://vod.tuxchannel.mx/peliculas/720/captain%20america%20brave%20new%20world%202025.mkv
-
-#EXTINF:-1, MEMORIAS DE UN CARACOL
-http://vod.tuxchannel.mx/peliculas/720/memoir%20of%20a%20snail%202024.mkv
-
-#EXTINF:-1, BAGMAN
-http://vod.tuxchannel.mx/peliculas/720/bagman%202024.mkv
-
-#EXTINF:-1, ESTADO ELECTRICO
-http://vod.tuxchannel.mx/peliculas/720/the%20electric%20state%202025.mkv
-
-#EXTINF:-1, G20
-http://vod.tuxchannel.mx/peliculas/720/g20%202025.mkv
-
-#EXTINF:-1, PANICO EN EL TREN BALA
-http://vod.tuxchannel.mx/peliculas/720/shinkansen%20daibakuha%202025.mkv
-
-#EXTINF:-1, MUFASA
-http://vod.tuxchannel.mx/peliculas/720/mufasa%202024.mkv
-
 #EXTINF:-1, PRESA
 https://polimor.club/stuff/presa.mp4
-
-#EXTINF:-1, DEMON CITY
-http://vod.tuxchannel.mx/peliculas/720/demon%20city%202025.mkv
-
-#EXTINF:-1, AMOR EXPLOSIVO
-https://canvasolutions.com.mx/stuff/amor.mp4
-
-#EXTINF:-1, CONTRA ATAQUE
-https://canvasolutions.com.mx/stuff/contra.mp4
-
-#EXTINF:-1, PLANKTON LA PELICULA
-http://vod.tuxchannel.mx/peliculas/720/plankton%20the%20movie%202025.mkv
-
-#EXTINF:-1, COMPAÑERA PERFECTA
-https://canvasolutions.com.mx/stuff/compa.mp4
-
-#EXTINF:-1, SONIC 3
-http://vod.tuxchannel.mx/peliculas/720/sonic%20the%20hedgehog%203%202024.mkv
-
-#EXTINF:-1, MOANA 2
-http://vod.tuxchannel.mx/peliculas/720/moana%202%202024.mkv
-
-#EXTINF:-1, NOSFERATU
-http://vod.tuxchannel.mx/peliculas/720/nosferatu%202024.mkv
-
-#EXTINF:-1, AMENAZA EN EL AIRE
-https://canvasolutions.com.mx//stuff/amenaza.mp4
-
-#EXTINF:-1, CRIATURAS: LINEA DE EXTINCION
-https://canvasolutions.com.mx//stuff/cri.mp4
-
-#EXTINF:-1, DESPUES DEL APOCALIPSIS
-https://canvasolutions.com.mx//stuff/apoca.mp4
-
-#EXTINF:-1, LA OTRA BODA
-https://canvasolutions.com.mx//stuff/boda.mp4
-
-#EXTINF:-1, MESA DE REGALOS
-https://canvasolutions.com.mx//stuff/mesa.mp4
-
-#EXTINF:-1, FLOW
-https://canvasolutions.com.mx//stuff/flow.mp4
-
-#EXTINF:-1, WICKED PARTE ONE
-https://canvasolutions.com.mx//stuff/wicked.mp4
-
-#EXTINF:-1, WALLACE & GROMIT: LA VENGANZA SE SIRVE CON PLUMAS
-http://vod.tuxchannel.mx/peliculas/720/wallace%20and%20gromit%20vengeance%20most%20fowl%202025.mkv
-
-#EXTINF:-1, EL ROBO PERFECTO: PANTERA
-https://canvasolutions.com.mx//stuff/ladrones2.mp4
-
-#EXTINF:-1, UN CANDIDATO HONESTO
-https://canvasolutions.com.mx//stuff/candidato.mp4
-
 #EXTINF:-1, VEMOM: EL ULTIMO BAILE
 https://www.polimor.club/movies/venom.mp4
-
-#EXTINF:-1, CODIGO: TRAJE ROJO
-http://vod.tuxchannel.mx/peliculas/720/red%20one%202024.mkv
-
 #EXTINF:-1, GLADIADOR II
 https://polimor.club/movies/gladiador2.mp4
-
-#EXTINF:-1, EL SEÑOR DE LOS ANILLOS: LA GUERRA DE LOS ROHIRRIM
-http://vod.tuxchannel.mx/peliculas/720/the%20lord%20of%20the%20rings%20the%20war%20of%20the%20rohirrim%202024.mkv
-
 #EXTINF:-1, SONRIE 2
 https://www.polimor.club/movies/sonrie2.mp4
-
 #EXTINF:-1, HAROLD Y SU CRAYP MAGICO
 https://www.polimor.club/movies/crayon.mp4
-
-#EXTINF:-1, HECHIZADOS
-http://vod.tuxchannel.mx/peliculas/720/spellbound%202024.mkv
-
-#EXTINF:-1, NUNCA TE SUELTES
-http://vod.tuxchannel.mx/peliculas/720/never%20let%20go%202024.mkv
-
-#EXTINF:-1, GUARDIANA DE DRAGONES
-http://vod.tuxchannel.mx/peliculas/720/dragonkeeper%202024.mkv
-
 #EXTINF:-1, SUPERMAN LA HISTORIA DE CHRISTOPHER REEVE
 https://www.polimor.club/movies/superman.mp4
-
 #EXTINF:-1, MEGALOPOLIS
 https://www.polimor.club/movies/MEGALOPOLIS.mp4
-
-#EXTINF:-1, JOKER 2
-http://vod.tuxchannel.mx/peliculas/720/joker%20folie%20a%20deux%202024.mkv
-
-#EXTINF:-1, TRANSFORMES ONE
-http://vod.tuxchannel.mx/peliculas/720/transformers%20one%202024.mkv
-
-#EXTINF:-1, HELLBOY THE CROOKED MAN
-http://vod.tuxchannel.mx/peliculas/720/hellboy%20the%20crooked%20man%202024.mkv
-
-#EXTINF:-1, LOS HOMBRES LOBO
-http://vod.tuxchannel.mx/peliculas/720/family%20pack%202024.mkv
-
-#EXTINF:-1, AHI AFUERA
-http://vod.tuxchannel.mx/peliculas/720/outside%202024.mkv
-
 #EXTINF:-1, 1992
 https://www.polimor.club/movies/1992.mp4
-
-#EXTINF:-1, ROBOT SALVAJE
-https://castlempire.site:443/movie/esteb5982roj/CchZQLdGB3/364262.mkv
-
-#EXTINF:-1, BEETLEJUICE 2
-http://vod.tuxchannel.mx/peliculas/720/beetlejuice%20beetlejuice%202024.mkv
-
-#EXTINF:-1, ALIEN ROMULUS
-http://84.54.185.70:8022/Moves%202025/Alien%20Romulus%202024%20Hybrid%201080p%20UHD%20BluRay%20DD+5.1%20Atmos%20DV%20HDR10+%20x265-HiDt.mkv
-
 #EXTINF:-1, LA SUSTANCIA
 https://www.polimor.club/movies/sustancia.mp4
-
-#EXTINF:-1, LOS HORRORES DE CADDO LAKE
-http://vod.tuxchannel.mx/peliculas/720/caddo%20lake%202024.mkv
-
-#EXTINF:-1, EL HOYO 2
-https://castlempire.site:443/movie/esteb5982roj/CchZQLdGB3/363220.mkv
-
-#EXTINF:-1, CTRL
-https://castlempire.site:443/movie/esteb5982roj/CchZQLdGB3/363217.mkv
-
-#EXTINF:-1, EL DIARIO
-http://vod.tuxchannel.mx/peliculas/720/el%20diario%202024.mkv
-
-#EXTINF:-1, EL MISTERIO DE SALEM´S LOT
-https://castlempire.site:443/movie/esteb5982roj/CchZQLdGB3/362809.mkv
-
-#EXTINF:-1, DEPARTAMENTO 7A
-http://vod.tuxchannel.mx/peliculas/720/apartment%207a%202024.mkv
-
 #EXTINF:-1, NO HABLES CON EXTRAÑOS
 https://www.polimor.club/movies/nohables.mp4
-
 #EXTINF:-1, LOBOS
 https://cinevallstorage.com/stuff/wolfs.mp4
-
 #EXTINF:-1, SED DE VENGANZA 2
 https://cinevallstorage.com/stuff/venganza.mp4
-
-#EXTINF:-1, LOS TIPOS MALOS ¿TRUCO O ATRACO?
-http://vod.tuxchannel.mx/peliculas/720/the%20bad%20guys%20haunted%20heist%202024.mkv
-
-#EXTINF:-1, AGENTE CINTURON NEGRO
-http://vod.tuxchannel.mx/peliculas/720/officer%20black%20belt%202024.mkv
-
 #EXTINF:-1, TECHNOBOYS
 https://cinevallstorage.com/stuff/techno.mp4
-
 #EXTINF:-1, LOS FEOS
 https://cinevallstorage.com/stuff/feos.mp4
-
 #EXTINF:-1, PARPADEA DOS VECES
 https://cinevallstorage.com/stuff/parpadea.mp4
-
-#EXTINF:-1, HUNTING GAMES
-http://vod.tuxchannel.mx/peliculas/720/hunting%20games%202023.mkv
-
 #EXTINF:-1, LA TRAMPA
 https://www.polimor.club/movies/trampa.mp4
-
 #EXTINF:-1, REBEL RIDGE
 https://cinevallstorage.com/stuff/rebel.mp4
-
 #EXTINF:-1, THE KILLER
 https://www.polimor.club/movies/killer.mp4
-
 #EXTINF:-1, LONGLESS
 https://cinevallstorage.com/stuff/longless.mp4
-
 #EXTINF:-1, CORRER PARA VIVIR
 https://cinevallstorage.com/stuff/correr.mp4
-
 #EXTINF:-1, BIENVENIDOS AL PARAISO
 https://cinevallstorage.com/stuff/paraiso.mp4
-
-#EXTINF:-1, TORNADOS
-http://vod.tuxchannel.mx/peliculas/720/twisters%202024.mkv
-
 #EXTINF:-1, JACKPOT LOTERIA MORTAL
 https://www.polimor.club/movies/loteria.mp4
-
 #EXTINF:-1, EXHUMAN LA TUMBA DEL DIABLO
 https://www.polimor.club/movies/exhuma.mp4
-
-#EXTINF:-1, EL SINDICATO
-http://vod.tuxchannel.mx/peliculas/720/the%20union%202024.mkv
-
 #EXTINF:-1, EL SECUESTRO DEL PAPA
 https://www.polimor.club/movies/papa.mp4
-
-#EXTINF:-1, AL RESCATE DE FONDO DE BIKINI: LA PELICULA DE ARENITA MEJILLA
-http://vod.tuxchannel.mx/peliculas/720/saving%20bikini%20bottom%20the%20sandy%20cheeks%20movie%202024.mkv
-
 #EXTINF:-1, DEADPOOL AND WOLVERINE
 https://www.polimor.club/movies/deadpool3.mp4
-
-#EXTINF:-1, MI VILLANO FAVORITO 4
-http://vod.tuxchannel.mx/peliculas/720/despicable%20me%204%202024.mkv
-
-#EXTINF:-1, UN LUGAR EN SILENCIO DIA UNO
-http://vod.tuxchannel.mx/peliculas/720/a%20quiet%20place%20day%20one%202024.mkv
-
 #EXTINF:-1, MAXXXINE
 https://www.polimor.club/movies/maxxine.mp4
-
-#EXTINF:-1, UNA MANIOBRA ARRIESGADA
-http://vod.tuxchannel.mx/peliculas/720/one%20fast%20move%202024.mkv
-
 #EXTINF:-1, LOS INSTIGADORES
 https://www.polimor.club/movies/incitadores.mp4
-
 #EXTINF:-1, LA VENGANZA DEL DRAGON
 https://www.polimor.club/movies/farang.mp4
-
 #EXTINF:-1, V DE VICTOR
 https://www.polimor.club/movies/victor.mp4
-
-#EXTINF:-1, EL ABUELO Y KID
-http://vod.tuxchannel.mx/peliculas/720/lolo%20and%20the%20kid%202024.mkv
-
-#EXTINF:-1, LA FAVORITA DEL REY
-https://www.polimorhdd.online/stuff/favorita2.mp4
-
-#EXTINF:-1, PLANETA DE LOS SIMIOS: NUEVO REINO
-http://vod.tuxchannel.mx/peliculas/720/kingdom%20of%20the%20planet%20of%20the%20apes%202024.mkv
-
-#EXTINF:-1, LOS VIGILANTES
-https://www.polimorhdd.online/stuff/watchers.mp4
-
-#EXTINF:-1, GRANDES ESPIAS: MISION ITALIA
-http://vod.tuxchannel.mx/peliculas/720/my%20spy%20the%20eternal%20city%202024.mkv
-
-#EXTINF:-1, SUPER DETECTIVE EN HOLLYWOOD ALEX F
-https://www.polimorhdd.online/stuff/cop4.mp4
-
 #EXTINF:-1, RECUERDOS MORTALES
 https://www.polimor.club/movies/recuerdos.mp4
-
-#EXTINF:-1, EL CLUB DE LOS VANDALOS
-https://www.polimorhdd.online/stuff/vandalos.mp4
-
 #EXTINF:-1, ARACNIDOS
 https://www.polimor.club/movies/aracnidos.mp4
-
 #EXTINF:-1, LA OTRA CARA DE LA LUNA
 https://www.polimor.club/movies/moon.mp4
-
 #EXTINF:-1, NOVATA ESPACIAL
 https://www.polimor.club/movies/novata.mp4
-
 #EXTINF:-1, UN ACTOR MALO
 https://www.polimor.club/movies/actor.mp4
-
-#EXTINF:-1, EL NIÑO Y LA GARZA
-http://vod.tuxchannel.mx/peliculas/720/the%20boy%20and%20the%20heron%202023.mkv
-
 #EXTINF:-1, HACHIKO
 https://www.polimor.club/movies/hachiko.mp4
-
-#EXTINF:-1, DETONANTES
-http://vod.tuxchannel.mx/peliculas/720/trigger%20warning%202024.mkv
-
-#EXTINF:-1, LOS INFALIBLES
-http://home-playtv.com:8080/movie/Eltico800/yqLAvES9xr/547975.mkv
-
 #EXTINF:-1, LA FAMILIA DEL BARRIO LA PELICULA
 https://www.polimor.club/movies/barrio.mp4
-
-#EXTINF:-1, LOUD HOUSE: NO HAY TIEMPO PARA ESPIAR
-http://vod.tuxchannel.mx/peliculas/720/no%20time%20to%20spy%20a%20loud%20house%20movie%202024.mkv
-
-#EXTINF:-1, INTENSAMENTE 2
-https://www.polimorhdd.online/stuff/intensamente2.mp4
-
-#EXTINF:-1, TAROT
-https://www.polimorhdd.online/stuff/tarot.mp4
-
-#EXTINF:-1, THE STRANGER: CHAPTER 1
-https://www.polimorhdd.online/stuff/extranos1.mp4
-
-#EXTINF:-1, BAD BOYS: RIDE OR DIE
-https://www.polimorhdd.online/stuff/badboys4.mp4
-
-#EXTINF:-1, CIVIL WAR
-http://vod.tuxchannel.mx/peliculas/720/civil%20war%202024.mkv
-
 #EXTINF:-1, EN LAS PROFUNDIDADES DEL SENA
 https://www.polimor.club/movies/sena.mp4
-
 #EXTINF:-1, HIT MAN: ASESINO POR CASUALIDAD
 https://www.polimor.club/movies/hitman.mp4
-
-#EXTINF:-1, EL DURO
-http://vod.tuxchannel.mx/peliculas/720/road%20house%202024.mkv
-
-#EXTINF:-1, GARFIELD
-https://www.polimorhdd.online/stuff/garfield.mp4
-
-#EXTINF:-1, ATLAS
-http://vod.tuxchannel.mx/peliculas/720/atlas%202024.mkv
-
 #EXTINF:-1, LA PRIMERA PROFECIA
 https://www.polimor.club/movies/profecia.mp4
-
-#EXTINF:-1, SOUTH PARK: EL FIN DE LA OBESIDAD
-https://www.polimorhdd.online/stuff/cartman.mp4
-
-#EXTINF:-1, DARKNESS OF MAN
-https://www.ciudadmaderas.club/stuff/dark.mp4
-
-#EXTINF:-1, KLAMMER: ROZANDO EL LIMITE
-https://www.polimorhdd.online/stuff/klammer.mp4
-
-#EXTINF:-1, BOYS KILL WORLD
-https://www.polimorhdd.online/stuff/boy.mp4
-
-#EXTINF:-1, BACK TO BLACK
-http://vod.tuxchannel.mx/peliculas/720/back%20to%20black%202024.mkv
-
-#EXTINF:-1, GARRA DE HIERRO
-http://vod.tuxchannel.mx/peliculas/720/the%20iron%20claw%202023.mkv
-
 #EXTINF:-1, ABIGAIL
 https://www.polimor.club/movies/abigail.mp4
-
-#EXTINF:-1, GODZILLA MINUS ONE
-https://www.ciudadmaderas.club/stuff/godzilla.mp4
-
-#EXTINF:-1, EN LLAMAS
-https://www.ciudadmaderas.club/stuff/fire.mp4
-
-#EXTINF:-1, INMACULADA
-https://www.ciudadmaderas.club/stuff/inmaculada.mp4
-
-#EXTINF:-1, ARTHUR
-https://www.ciudadmaderas.club/stuff/arthur.mp4
-
-#EXTINF:-1, BAGHEAD: CONTACTO CON LA MUERTE
-https://www.ciudadmaderas.club/stuff/baghead.mp4
-
-#EXTINF:-1, SAYEN LA CAZADORA
-http://vod.tuxchannel.mx/peliculas/720/sayen%20the%20huntress%202024.mkv
-
-#EXTINF:-1, MIRACULOUS LADYBUG SHADYBUG Y CLAW NOIR
-http://vod.tuxchannel.mx/peliculas/720/miraculous%20world%20paris%20tales%20of%20shadybug%20and%20claw%20noir%202023.mkv
-
-#EXTINF:-1, MONKEY MAN
-https://www.ciudadmaderas.club/stuff/monkey.mp4
-
-#EXTINF:-1, GODZILLA Y KONG: EL NUEVO IMPERIO
-https://alianzajuridicainteramericana.com/stuff/godkong.mp4
-
-#EXTINF:-1, KUNG FU PANDA 4
-https://www.polimorhdd.online/stuff/kung.mp4
-
-#EXTINF:-1, DUNE PARTE 2
-https://www.polimorhdd.online/stuff/duna2.mp4
-
-#EXTINF:-1, PAJARO LOCO: SE VA DE CAMPAMENTO
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/abr24/Ver%20El%20P%C3%A1jaro%20Loco%20se%20va%20de%20campamento%20online%20HD%20-%20Cuevana%202.mp4
-
-#EXTINF:-1, ROOMIE
-https://www.ciudadmaderas.club/stuff/roomie.mp4
-
-#EXTINF:-1, FIGHTER: DRAGONES DEL AIRE
-http://vod.tuxchannel.mx/peliculas/720/fighter%202024.mkv
-
-#EXTINF:-1, JUGUETE DIABOLICO
-https://www.polimorhdd.online/stuff/juguete.mp4
-
-#EXTINF:-1, ATRAPADOS EN LO PROFUNDO
-https://www.polimorhdd.online/stuff/profundo.mp4
-
-#EXTINF:-1, BOB MARLEY
-https://www.polimorhdd.online/stuff/marley.mp4
-
-#EXTINF:-1, EL PEOR EQUIPO DEL MUNDO
-https://www.polimorhdd.online/stuff/gol.mp4
-
-#EXTINF:-1, UNICORN WARS
-http://vod.tuxchannel.mx/peliculas/720/unicorn%20wars%202022.mkv
-
-#EXTINF:-1, LOS CAZAGRANDES LA PELICULA
-http://vod.tuxchannel.mx/peliculas/720/the%20casagrandes%20movie%202024.mkv
-
-#EXTINF:-1, EL COLOR PURPURA
-http://vod.tuxchannel.mx/peliculas/720/the%20color%20purple%202023.mkv
-
-#EXTINF:-1, SOBREVIVIENTES DESPUES DEL TERREMOTO
-http://vod.tuxchannel.mx/peliculas/720/concrete%20utopia%202023.mkv
-
-#EXTINF:-1, MADAME WEB
-http://208.88.245.85/hd/Madame.Web.2024.mkv
-
-#EXTINF:-1, SIMÓN
-http://vod.tuxchannel.mx/peliculas/720/simon%202023.mkv
-
 #EXTINF:-1, ARGYLL
 https://www.polimor.club/movies/argyll.mp4
-
-#EXTINF:-1, RED RIGHT HAND
-https://www.polimorhdd.online/stuff/red.mp4
-
-#EXTINF:-1, ANATOMIA DE UNA CAIDA
-https://alianzajuridicainteramericana.com/stuff/caida.mp4
-
-#EXTINF:-1, FERRARI
-http://vod.tuxchannel.mx/peliculas/720/ferrari%202023.mkv
-
-#EXTINF:-1, MEGAMENTE CONTRA EL SINDICATO DEL MAL
-http://vod.tuxchannel.mx/peliculas/720/megamind%20vs%20the%20doom%20syndicate%202024.mkv
-
-#EXTINF:-1, LOS MENOS PRECIADOS
-http://208.88.245.81/nuevo/los.menospreciados.dual.2024.mkv
-
-#EXTINF:-1, POBRES CRIATURAS
-https://alianzajuridicainteramericana.com/stuff/pobres.mp4
-
 #EXTINF:-1, PAPÁ O MAMÁ
 https://www.polimor.club/movies/papaomama.mp4
-
-#EXTINF:-1, EL APRENDIZ DE TIGRE
-http://vod.tuxchannel.mx/peliculas/720/the%20tigers%20apprentice%202024.mkv
-
-#EXTINF:-1, BEEKEPER EL PROTECTOR
-https://www.polimorhdd.online/stuff/beek.mp4
-
-#EXTINF:-1, UPGRADE PRIMERA CLASE
-https://www.polimorhdd.online/stuff/ascenso.mp4
-
-#EXTINF:-1, RADICAL
-https://alianzajuridicainteramericana.com/stuff/radical.mp4
-
-#EXTINF:-1, CON TODOS MENOS CONMIGO
-https://www.polimorhdd.online/stuff/todos.mp4
-
-#EXTINF:-1, SEÑORA INFLUENCER
-https://www.polimorhdd.online/stuff/senora.mp4
-
-#EXTINF:-1, WISH: EL PODER DE LOS DESEOS
-https://www.polimorhdd.online/stuff/wish.mp4
-
-#EXTINF:-1, AQUAMAN Y EL REINO PERDIDO
-http://vod.tuxchannel.mx/peliculas/720/aquaman%20and%20the%20lost%20kingdom%202023.mkv
-
-#EXTINF:-1, PATOS 2023
-http://vod.tuxchannel.mx/peliculas/720/migration%202023.mkv
-
-#EXTINF:-1, AGUAS SINIESTRAS
-http://vod.tuxchannel.mx/peliculas/720/night%20swim%202024.mkv
-
-#EXTINF:-1, ELIJIO CREER
-http://208.88.245.85/nuevo/elijo.creer.latino2024.mkv
-
-#EXTINF:-1, WONKA
-https://www.polimorhdd.online/stuff/wonka.mp4
-
 #EXTINF:-1, LIFT UN ROBO DE PRIMERA CLASE
 https://www.polimor.club/movies/lift.mp4
-
-#EXTINF:-1, JUEGA O MUERE
-http://plusxtream.online:80/play/NVOlICMMIaXnV_4e2nAHWhKmGcJijq_sr8Ty1chvcPqhzuvOTimKyDfKiraWodaF#.mkv
-
-#EXTINF:-1, NAPOLEON
-http://vod.tuxchannel.mx/peliculas/720/napoleon%202023.mkv
-
-#EXTINF:-1, TAYLOR SWIFT THE ERAS TOUR
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/diciembre/Ver%20TAYLOR%20SWIFT%20-%20THE%20ERAS%20TOUR%20online%20HD%20-%20Cuevana%202.mp4
-
-#EXTINF:-1, MUCHACHOS
-http://208.88.245.85/nuevo/muchachos.latino.2023.mkv
-
-#EXTINF:-1, LA SOCIEDAD DIA DELA NIEVE
-http://208.88.245.85/nuevo/la.sociedad.dla.nieve.latino.2024.mkv
-
-#EXTINF:-1, REBEL MOON PARTE UNO
-http://zonamovie.live:8080/movie/Herberthlopez/ODHS5645/698217.mkv
-
 #EXTINF:-1, MISS SHAMPOO
 https://tvinnov.online/PELICULAS%202023/Miss%20Shampoo/Miss.Shampoo.2023.1080p.WEBRip.Dual.Latino.mp4
-
-#EXTINF:-1, SALTBURN: EL LABERINTO
-http://vod.tuxchannel.mx/peliculas/720/saltburn%202023.mkv
-
-#EXTINF:-1, CHICKEN RUN: EL AMANECER DE LOS NUGGETS
-http://vod.tuxchannel.mx/peliculas/720/chicken%20run%20dawn%20of%20the%20nugget%202023.mkv
-
-#EXTINF:-1, PLAN FAMILIAR
-https://alianzajuridicainteramericana.com/stuff/planfamiliar.mp4
-
-#EXTINF:-1, LOS JUEGOS DEL HAMBRE: BALADA DE LOS PAJAROS CANTORES Y SERPIENTES
-https://www.mediafire.com/file_premium/qmbckitoz86elg2/th3.hung3r.g4m3s.th3.b4ll4d.0f.s0nb1rds.4nd.sn4k3s.2023.hdrip.1080p.latino.mp4/file
-
-#EXTINF:-1, EL DIARIO DE GREG EN NAVIDAD: ATRAPADOS EN LA NIEVE
-http://vod.tuxchannel.mx/peliculas/720/diary%20of%20a%20wimpy%20kid%20christmas%20cabin%20fever%202023.mkv
-
-#EXTINF:-1, FELIZ MINI-BAT NAVIDAD
-http://vod.tuxchannel.mx/peliculas/720/merry%20little%20batman%202023.mkv
-
-#EXTINF:-1, VIAJE TODO ROBADO
-https://www.polimorhdd.online/stuff/viaje.mp4
-
-#EXTINF:-1, MEJOR NAVIDAD IMPOSIBLE
-http://208.88.245.85/nuevo/mejor.navidad.imposible.dual2023.mkv
-
-#EXTINF:-1, EL SEXTO BUS
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/diciembre/Ver%20El%20Sexto%20Bus%20online%20HD%20-%20Cuevana%202.mp4
-
-#EXTINF:-1, 12 HORAS PARA EL FIN DEL MUNDO
-https://www.polimorhdd.online/stuff/mira.mp4
-
-#EXTINF:-1, THE MARVELS
-http://vod.tuxchannel.mx/peliculas/720/the%20marvels%202023.mkv
-
-#EXTINF:-1, LA CALLE DE LA NAVIDAD
-https://www.mediafire.com/file_premium/xjiop4m8lt55lug/La.Calle.De.La.Navidad..2023.1080P-Dual-Lat.mp4/file
-
-#EXTINF:-1, LEO
-http://vod.tuxchannel.mx/peliculas/720/leo%202023.mkv
-
-#EXTINF:-1, LOS TIPOS MALOS: UNA NAVIDAD MUY MALA
-http://vod.tuxchannel.mx/peliculas/720/the%20bad%20guys%20a%20very%20bad%20holiday%202023.mkv
-
-#EXTINF:-1, PRANCER: UN CUENTO DE NAVIDAD
-http://illoquepasa.xyz:80/play/KDBIm-ac4IHoAs5Y9nCqtVoO72DU0C18l8X0xdKgWRY
-
-#EXTINF:-1, EL SABOR DE LA NAVIDAD
-http://208.88.245.85/nuevo/el.sabor.dla.navidad.latino2023.mkv
-
-#EXTINF:-1, LOS NUEVE TRAVIESOS
-http://vod.tuxchannel.mx/peliculas/720/the%20naughty%20nine%202023.mkv
-
 #EXTINF:-1, LOS ULTIMOS SUPERVIVIENTES
 https://www.polimor.club/movies/survivors.mp4
-
 #EXTINF:-1, GOLPE A WALL STREET
 https://www.polimor.club/movies/dump.mp4
-
-#EXTINF:-1, EL ARTE DE MATAR
-http://vod.tuxchannel.mx/peliculas/720/the%20kill%20room%202023.mkv
-
 #EXTINF:-1, LOS ASESINOS DE LA LUNA
 https://www.polimor.club/movies/luna.mp4
-
 #EXTINF:-1, TROLLS 3
 https://www.polimor.club/movies/trols3.mp4
-
 #EXTINF:-1, LA PUERTA MAGICA
 https://www.polimor.club/movies/puerta.mp4
-
-#EXTINF:-1, UNDERGROUND
-https://www.polimorhdd.online/stuff/souterrain.mp4
-
-#EXTINF:-1, EL ACESINO
-https://www.polimorhdd.online/stuff/killer.mp4
-
 #EXTINF:-1, ACENSO AL LIMITE
 https://www.polimor.club/movies/summersub.mp4
-
-#EXTINF:-1, SLY
-http://208.88.245.85/nuevo/sly.dual.2023.mkv
-
 #EXTINF:-1, WELCOME AL NORTE
 https://www.polimor.club/movies/welcome.mp4
-
-#EXTINF:-1, PAPÁS A LA ANTIGUA
-https://www.polimorhdd.online/stuff/papas.mp4
-
-#EXTINF:-1, EL CREADOR
-https://www.polimorhdd.online/stuff/creator.mp4
-
-#EXTINF:-1, LEGO AVENGERS: CODIGO ROJO
-http://208.88.245.85/nuevo/lego.avengers.codigo.rojo.dual2023.mkv
-
-#EXTINF:-1, FIVE NIGHTS AT FREDDYS
-http://208.88.245.85/nuevo/fivenight.at.freddys.dual2023.mkv
-
-#EXTINF:-1, SAW X
-http://208.88.245.85/nuevo/saw.x.dual.2023.mkv
-
-#EXTINF:-1, EL EXORCISTA: CREYENTES
-http://208.88.245.85/nuevo/el.exorcista.creyentes.dual2023.mkv
-
-#EXTINF:-1, CASERIA EN VENECIA
-http://208.88.245.85/nuevo/misterio.en.venecia.dual2023.mkv
-
-#EXTINF:-1, CRIA SINIESTRA
-http://cineplay.vip:8080/movie/fcorzo23/UqZqrEkQcY/250235.mkv
-
-#EXTINF:-1, JUICIO AL DIABLO
-http://208.88.245.85/nuevo/juicio.al.diablo.dual.2023.mkv
-
-#EXTINF:-1, CUANDO ACECHA LA MALDAD
-http://cineplay.vip:8080/movie/fcorzo23/UqZqrEkQcY/250118.mkv
-
-#EXTINF:-1, SOUTH PARK: ENTARANDO AL PANDERVERSE
-http://cineplay.vip:8080/movie/fcorzo23/UqZqrEkQcY/252417.mkv
-
-#EXTINF:-1, INDESTRUCTIBLES 4
-https://www.polimorhdd.online/stuff/indestructibles.mp4
-
-#EXTINF:-1, URI: FUERZAS ESPECIALES
-https://www.mediafire.com/file_premium/4huaxxsoc4fvg92/Uri.-.Fuerzas.Especiales.2019.1080P-Dual-Lat.mp4/file
-
-#EXTINF:-1, JUEGO LIMPIO
-https://www.polimorhdd.online/stuff/juegolimpio.mp4
-
-#EXTINF:-1, LA HIJA DEL PRICIONERO
-http://208.88.245.85/nuevo/la.hija.del.prisionero.dual2023.mkv
-
-#EXTINF:-1, A REALLY HAUNTED LOUD HOUSE
-http://208.88.245.85/nuevo/una.verdadera.familiaembrujada.dual2023.mkv
-
-#EXTINF:-1, PAW PATROL LA SUPER PELICULA
-http://208.88.245.85/nuevo/pawpatrol.lasuperpelicula.dual2023.mkv
-
-#EXTINF:-1, SCOOBY Y KRYPTO AL RESCATE
-http://208.88.245.85/nuevo/scooby.ykrypto.alrescate.dual2023.mkv
-
-#EXTINF:-1, INDESTRUCTIBLES 4
-http://208.88.245.85/nuevo/finnick.dual2023.mkv
-
-#EXTINF:-1, NADIE TE SALVARA
-https://www.polimorhdd.online/stuff/nadie.mp4
-
 #EXTINF:-1, NOWHERE
 https://tvinnov.online/PELICULAS%202023/NOWHERE/Nowhere.2023.WEB-DL.1080p.Espa%c3%b1ol.mp4
-
-#EXTINF:-1, SANGRIENTOS DICISEIS
-https://www.polimorhdd.online/stuff/dulces.mp4
-
-#EXTINF:-1, BALLERINA 2023
-http://tv.nousiptv.com:8080/movie/099782572/Victoria/1178223.mkv
-
-#EXTINF:-1, CURANDERO
-https://www.polimorhdd.online/stuff/curandero.mp4
-
-#EXTINF:-1, CASSANDRO
-http://208.88.245.81/nuevo/casandro.2023dual.mkv
-
-#EXTINF:-1, LA MONJA 2
-https://www.polimorhdd.online/stuff/monja.mp4
-
-#EXTINF:-1, MANSION EMBRUJADA 2023
-https://www.polimorhdd.online/stuff/mansion.mp4
-
-#EXTINF:-1, GRAN TURISMO
-https://www.polimorhdd.online/stuff/turismo.mp4
-
-#EXTINF:-1, EL JUSTICIERO: CAPITULO FINAL
-https://www.polimorhdd.online/stuff/equalizer3.mp4
-
 #EXTINF:-1, THE BOOGEYMAN
 https://www.polimor.club/movies/boogey.mp4
-
-#EXTINF:-1, SONIDO DE LIBERTAD
-http://sdmx.vip:8080/movie/BUZZXCS/RL7NU7/2187489.mp4
-
-#EXTINF:-1, GUARDIANES DEL MUSEO
-http://tv.nousiptv.com:8080/movie/099782572/Victoria/1177336.mkv
-
-#EXTINF:-1, MINI ESPIAS: ARMAGEDDON
-http://tv.nousiptv.com:8080/movie/099782572/Victoria/1176771.mkv
-
-#EXTINF:-1, TORTUGAS NINJA: CAOS MUTANTE
-http://tv.nousiptv.com:8080/movie/099782572/Victoria/1176697.mkv
-
-#EXTINF:-1, BLUE BEETLE
-https://www.polimorhdd.online/stuff/blue.mp4
-
 #EXTINF:-1, CONTRARRELOJ
 https://www.polimor.club/movies/retribucion.mp4
-
-#EXTINF:-1, MILLONES DE KILOMETROS
-https://www.cinedds.online/stuff/astro.mp4
-
-#EXTINF:-1, HIPNOSIS: ARMA INVISIBLE
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/septiembre/Ver%20Hipnosis-%20Arma%20Invisible%20online%20HD%20-%20Cuevana%202.mp4
-
 #EXTINF:-1, INDIANA JONES Y ELE IDEAL DL DESTINO
 https://www.polimor.club/movies/indy.mp4
-
-#EXTINF:-1, BARBIE 2023
-https://www.cinedds.online/stuff/barbie.mp4
-
-#EXTINF:-1, HIJOS DE PERRA
-https://www.cinedds.online/stuff/hdeperra.mp4
-
-#EXTINF:-1, DRACULA
-https://www.cinedds.online/stuff/demeter.mp4
-
-#EXTINF:-1, AMIGOS DE VACACIONES 2
-http://208.88.245.85/nuevo/amigos.dlas.vacaciones2.dual.mkv
-
 #EXTINF:-1, MEGALODON 2: EL GRAN ABISMO
 https://www.polimor.club/movies/meg2.mp4
-
 #EXTINF:-1, UNWELCOME
 https://www.polimor.club/movies/unwelcome.mp4
-
-#EXTINF:-1, SNOOPY PRESENTA: LA INIGUALABLE MARCIE
-http://208.88.245.85/nuevo/snoopypresenta.launicaeinigualable.marcie.dual2023.mkv
-
-#EXTINF:-1, LEGO DISNEY PRINCESAS: AVENTURAS EN EL CASTILLO
-http://208.88.245.85/nuevo/castle.quest.legodisney.princes.dual2023.mkv
-
 #EXTINF:-1, EL REY MONO
 https://www.polimor.club/movies/reymono.mp4
-
-#EXTINF:-1, LOS HABITANTES
-http://208.88.245.85/nuevo/los.habitantes.2023.latino.mkv
-
-#EXTINF:-1, OPPENHEIMER
-http://208.88.245.85/nuevo/oppenheimer.2023.dual.mkv
-
 #EXTINF:-1, ELEMENTAL
 https://www.polimor.club/movies/elemental.mp4
-
-#EXTINF:-1, MISION IMPOSIBLE SENTENCIA MORTAL - PARTE 1
-http://208.88.245.85/nuevo/misionimposible.senmortal.2023.dual.mkv
-
 #EXTINF:-1, AGENTE STONE
 https://www.polimor.club/movies/stone.mp4
-
 #EXTINF:-1, LOS TRES MOSQUETEROS
 https://www.polimor.club/movies/mosqueteros.mp4
-
-#EXTINF:-1, LA FIEBRE DE LOS PELUCHES
-http://208.88.245.81/nuevo/la.fiebre.dlos.peluches.beanie.dual2023.mkv
-
-#EXTINF:-1, ZOEY 102
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/agosto/Watch%20Zoey%20102%202023%201080p%20Latino%20mkv.mp4
-
-#EXTINF:-1, QUIZAS PARA SIEMPRE
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/agosto/Watch%20maybe%202023%20lat%201080p%20mp4.mp4
-
-#EXTINF:-1, SPIDER-MAN:ACROSS THE SPIDER-VERSE
-https://nsfw-dl.glitch.me/1001953408171/7452
-
-#EXTINF:-1, INSIDIOUS: LA PUERTA ROJA
-http://208.88.245.81/nuevo/insidiuos.puertaroja.dual2023.mkv
-
-#EXTINF:-1, PROYECTO EXTRACCIÓN
-https://ia902704.us.archive.org/15/items/01_20230801_20230801_2036/01.mp4
-
-#EXTINF:-1, LAS AVENTURAS DE LADYBUG LA PELICULA
-https://www.mediafire.com/file_premium/ia9nnoaxn04ifa2/n45lZzuQZ1GV5bx2gCXfO9%252BOGsfgMXNCIo6_kqAq.mp4/file
-
-#EXTINF:-1, INVINCIBLE: ATOM EVE
-https://ia802707.us.archive.org/29/items/01_20230801_20230801_2052/01.mp4
-
-#EXTINF:-1, PARADISE
-https://ia802705.us.archive.org/17/items/01_20230801_20230801_2301/01.mp4
-
-#EXTINF:-1, ZOM 100:COSAS QUE QUIERO HACER ANTES DE COMVERTIRME EN ZOMBIE
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/agosto/Ver%20Zom%20100-%20Cien%20cosas%20que%20quiero%20hacer%20antes%20de%20convertirme%20en%20zombi%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-
-#EXTINF:-1, OPERACION KANDAHAR
-https://ia802706.us.archive.org/12/items/01_20230801_20230801_2103/01.mp4
-
 #EXTINF:-1, DIVINA SEÑAL
 https://www.mediafire.com/file_premium/n4t3gjrxc3guufe/divinasenal.mp4/file
-
-#EXTINF:-1, FELICIDAD PARA PRINCIPIANTES
-https://ia902704.us.archive.org/14/items/01_20230801_20230801_2211/01.mp4
-
-#EXTINF:-1, LA SIRENITA
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/julio/Ver%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-
-#EXTINF:-1, RESIDENT EVIL: DEATH ISLAND
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/julio/Ver%20Resident%20Evil-%20Death%20Island%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-
-#EXTINF:-1, KRAKENS Y SIRENAS
-http://208.88.245.85/nuevo/krakensysirenas.dual2023.mkv
-
-#EXTINF:-1, LA LEYENDA DE LOS CHANEQUES
-http://208.88.245.85/nuevo/la.leyenda.delos.chaneques.ltino2023.mkv
-
-#EXTINF:-1, LA LIGA DE LA JUSTICIA: WARWORLD
-https://ia902707.us.archive.org/4/items/01_20230801_20230801_2043/01.mp4
-
-#EXTINF:-1, EL CLON DE TYRONE
-http://208.88.245.85/nuevo/el.clon.de.tyrone.dual2023.mkv
-
-#EXTINF:-1, MISANTROPO
-https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/julio/Ver%20Misa%CC%81ntropo%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-
-#EXTINF:-1, BIRD BOX BARCELONA
-https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/julio/Ver%20Bird%20Box%20Barcelona%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-
-#EXTINF:-1, LIONEL MESSI DESTINY
-http://208.88.245.85/nuevo/lionelmessi.destiny.2023.mkv
-
-#EXTINF:-1, SHOOTING STAR
-http://208.88.245.85/nuevo/shooting.stars.dual2023.mkv
-
-#EXTINF:-1, FLASH
-https://www.alianzajuridicainteramericana.com/movies/flash.mp4
-
-#EXTINF:-1, TRANSFORMERS
-https://taraturismo.com/stuff/trans.mp4
-
-#EXTINF:-1, TIBURON NEGRO
-https://www.alianzajuridicainteramericana.com/movies/demonionero.mp4
-
-#EXTINF:-1, UNOS SUEGROS DE ARMAS TOMAR
-https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/julio/Ver%20Unos%20suegros%20de%20armas%20tomar%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-
-#EXTINF:-1, BLACK CLOVER: LA ESPADA DEL REY MAGO
-https://archive.org/download/01_20230623_20230623_1910/01.mp4
-
-#EXTINF:-1, LA NIÑA DE LA COMUNION
-http://208.88.245.85:80/nuevo/la.nina.dela.comunion.2023cast.mkv
-
-#EXTINF:-1, GUARDIANES DE LA GALAXIA VOL.3
-https://juancortes.com.mx/stuff/guardianes.mp4
-
-#EXTINF:-1, LOS CABALLEROS DEL ZODIACO: SAINT SEIYA - EL INICIO
-http://kuchini.site:8080/movie/multi6741/ab72059e/299033.mkv
-
-#EXTINF:-1, OFENDA AL DEMONIO
-http://208.88.245.85/nuevo/ofrenda.aldemonio.dual.2023.mkv
-
-#EXTINF:-1, NIMONA
-http://tv.pro-ott.com:25443/movie/S099G634LK/MRYDTW5VYK/275414.mkv
-
-#EXTINF:-1, SUZUME
-https://taraturismo.com/stuff/susume.mp4
-
-#EXTINF:-1, MISION RESCATE 2
-http://playhispano.org:8080/movie/userlw/led5120/244071.mkv
-
-#EXTINF:-1, EL PACTO (THE COVENANT)
-http://208.88.245.81/nuevo/el.pacto.2023dual.mkv
-
-#EXTINF:-1, LA USURPADORA
-http://00322.xyz:8000/movie/saabj84/CNGUPDY6RA/162724.mkv
-
-#EXTINF:-1, FLAMIN’ HOT: EL SABOR QUE CAMBIO LA HISTORIA
-http://208.88.245.85/nuevo/flaminhot.2023dual.mkv
-
-#EXTINF:-1, LA HEREDERA DE LA MAFIA (MAFIA MAMMA)
-http://tvplux.ddns.me:33200/movie/sergiodelafuente/3bVThT8pRBpz/56763.mkv
-
-#EXTINF:-1, "CULPA MIA
-http://tvplux.ddns.me:33200/movie/sergiodelafuente/3bVThT8pRBpz/56762.mkv
-
-#EXTINF:-1, RAPIDOS Y FURIOSOS X
-https://www.mediafire.com/file_premium/nyfw4rpp2boyqfl/f4st.x.2023.hdrip.1080p.latino.mp4/file
-
 #EXTINF:-1, DETECTIVES EN GUERRA
 https://i.ytimg.com/vi/CEisKmE1HYI/maxresdefault.jpg
-
-#EXTINF:-1, EL ULTIMO VAGON
-http://158.69.224.17:88/edmian/Where.The.Tracks.End.2023.720p%20(1).mkv
-
-#EXTINF:-1, SNAG
-http://tv.deluxeprime.net:8080/anrj91/TpwfHPjkLHMJ/196854.mkv
-
-#EXTINF:-1, LA MADRE
-http://208.88.245.85/nuevo/la.madre.dual.2023.mkv
-
-#EXTINF:-1, POLITE SOCIETY
-http://158.69.224.17:88/edmian/Polite.Society.2023.720p%20(1).mkv
-
-#EXTINF:-1, AIR
-http://158.69.224.17:88/edmian/Air.2023.720p%20(1).mkv
-
-#EXTINF:-1, CRATER
-http://158.69.224.17:88/edmian/Crater.2023.720p%20(1).mkv
-
-#EXTINF:-1, ¡QUE VIVA MEXICO!
-http://158.69.224.17:88/edmian/Que%20viva%20M%c3%a9xico.2023.720P.mkv
-
-#EXTINF:-1, SUPER MARIO BROS: LA PELICULA
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20S%C3%BAper%20Mario%20Bros-%20La%20pel%C3%ADcula%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-
-#EXTINF:-1, EVIL DEAD RISE: EL DESPERTAR
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/mayooo/Ver%20Evil%20Dead-%20El%20despertar%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4
-
-#EXTINF:-1, RENFIELD: ASISTENTE DE VAMPIRO
-http://208.88.245.81/nuevo/renfield.asistdvampiro.dual2023.mkv
-
-#EXTINF:-1, EL EXORCISTA DEL PAPA
-http://208.88.245.85/nuevo/el.exorcistadelpapa.dual2023.mkv
-
-#EXTINF:-1, CALABOZOS Y DRAGONES: HONOR ENTRE LADRONES
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/abril/Ver%20Calabozos%20&%20Dragones-%20Honor%20entre%20ladrones%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-
-#EXTINF:-1, SIN TIEMPO
-http://158.69.224.17:88/edmian/Clock.2023.720p%20(1).mkv
-
-#EXTINF:-1, PETER PAN Y WENDY
-http://nocable.cc:8080/Debra/Debra/1807230.mp4
-
-#EXTINF:-1, TRANSFUSION
-http://playhispano.org:8080/movie/eliaseggy787/JRZpSNT6Bv/180942.mkv
-
-#EXTINF:-1, EL CURIOSO CASO DE DOLPHIN BAY
-http://playhispano.org:8080/movie/eliaseggy787/JRZpSNT6Bv/216164.mkv
-
-#EXTINF:-1, SCREAM 6
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/abril/Ver%20Scream%20VI%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-
-#EXTINF:-1, CAZADOR DE TORNADOS
-http://158.69.224.17:88/edmian/Supercell.2023.720p%20(1).mkv
-
-#EXTINF:-1, GAME OF LOVE
-http://45.179.164.59:8181/Peliculas/Game%20of%20Love.2023.5.1%20WEBDL.mkv
-
-#EXTINF:-1, HOY Y SIEMPRE
-http://45.179.164.59:8181/Peliculas/2023/Mighty.Morphin.Power.Rangers.Once.&.Always.2023.720p-dual-lat/Mighty.Morphin.Power.Rangers.Once.&.Always.2023.720p-dual-lat.mkv
-
-#EXTINF:-1, GHOSTEADO
-http://208.88.245.81/nuevo/ghosted.dual.2023.mkv
-
-#EXTINF:-1, JOHN WICK 4
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4
-
-#EXTINF:-1, ANT-MAN Y LA AVISPA: QUANTUMANIA
-http://51.81.208.167/pelis2023/Ant-Man.and.the.Wasp.Quantumania.2023.720p-dual-lat.mkv
-
-#EXTINF:-1, SIETE REYES DEBEN MORIR
-http://45.179.164.59:8181/Peliculas/2023/The.Last.Kingdom.Seven.Kings.Must.Die.2023.720p-dual-lat/The.Last.Kingdom.Seven.Kings.Must.Die.2023.720p-dual-lat.mkv
-
-#EXTINF:-1, EL EXORCISMO DE MAZZIK: LA VIGILIA
-http://45.179.164.59:8181/Peliculas/2023/El%20exorcismo%20del%20Mazzik,%20la%20vigilia.mkv
-
-#EXTINF:-1, JESUS REVOLUCIÓN
-http://158.69.224.17:88/edmian/Jesus.Revolution.2023.720p%20(1).mkv
-
-#EXTINF:-1, AMÉN: FRANCISCO RESPONDE
-http://45.179.164.59:8181/Peliculas/The.Pope.Answers.2023.1080p.LAT.cinecalidad.cat.mp4
-
-#EXTINF:-1, SHAZAM! 2
-http://51.81.208.167/pelis2023/Shazam!.2.2023.lati.mp4
-
-#EXTINF:-1, LA BALLENA
-http://51.81.208.167/pelis2023/The.Whale.2022.lati.mp4
-
-#EXTINF:-1, CHUPA
-http://45.179.164.59:8181/Peliculas/2023/Chupa.2023.720p/Chupa.2023.720p.mkv
-
-#EXTINF:-1, 65: AL BORDE DE LA EXTINCION
-http://51.81.208.167/pelis2023/65.2023.lati.mp4
-
-#EXTINF:-1, HAMBRE
-http://51.81.208.167/pelis2023/Hunger.2023.1080P.mp4
-
-#EXTINF:-1, INFELICES PARA SIEMPRE
-http://45.179.164.59:8181/Peliculas/2023/Infelices.para.siempre.2022.720p/Infelices.para.siempre.2022.720p.mkv
-
-#EXTINF:-1, CREED 3
-http://51.81.208.167/pelis2023/Creed.III.2023.mkv
-
-#EXTINF:-1, BATMAN:LA PERDICION QUE LLEGO A LA CUIDAD
-http://45.179.164.59:8181/Peliculas/Batman.La.Perdici%c3%b3n.que.lleg%c3%b3.a.Ciudad.G%c3%b3tica.2023.720p-dual-lat.mkv
-
-#EXTINF:-1, AVATAR: EL CAMINO DEL AGUA
-http://45.179.164.59:8181/Peliculas/2023/Avatar%20The%20Way%20Of%20Water%20(2022)%20%5b720p%5d/Avatar.The.Way.Of.Water.2022.mkv
-
-#EXTINF:-1, WINNIE THE POOH BLOOD AND HONEY
-http://tv.multitv.live:39001/movie/Martha11CA/I4bSzJfAzE/213645.mkv
-
-#EXTINF:-1, MOMIAS
-http://45.179.164.59:8181/Peliculas/2023/Momias.2023.720p-dual-lat/Momias.2023.720p-dual-lat.mkv
-
-#EXTINF:-1, CRIMINALES A LA VISTA
-http://45.179.164.59:8181/Peliculas/2023/Misterio.a.la.vista.2023.720p-dual-lat/Misterio.a.la.vista.2023.720p-dual-lat.mkv
-
-#EXTINF:-1, FURIES
-http://45.179.164.59:8181/Peliculas/2023/Furies.2023.720p/Furies.2023.720p.mkv
-
-#EXTINF:-1, EL REY DE LAS SOMBRAS
-http://45.179.164.59:8181/Peliculas/2023/El.rey.de.las.sombras.2023.720p-dual-lat/El.rey.de.las.sombras.2023.720p-dual-lat.mkv
-
-#EXTINF:-1, BOKSOON DEBE MORIR
-http://45.179.164.59:8181/Peliculas/2023/Boksoon.debe.morir.2023.720p-dual-lat/Boksoon.debe.morir.2023.720p-dual-lat.mkv
-
-#EXTINF:-1, MAD DOG
-http://45.179.164.59:8181/Peliculas/2023/Mad.Dog.2021.1080p/Mad.Dog.2021.1080p.mkv
-
-#EXTINF:-1, MI MAESTRA SE COMIO A MI AMIGO
-http://45.179.164.59:8181/Peliculas/2023/Mi.maestra.se.comi%c3%b3.a.mi.amigo.2023.720p-dual-lat/Mi.maestra.se.comi%c3%b3.a.mi.amigo.2023.720p-dual-lat.mkv
-
-#EXTINF:-1, MIENTRAS HAYA ESPERANZA
-http://45.179.164.59:8181/Peliculas/2023/On.a.Wing.and.a.Prayer.2023.720p-dual-lat/On.a.Wing.and.a.Prayer.2023.720p-dual-lat.mkv
-
-#EXTINF:-1, RUIDO MENTAL
-http://45.179.164.59:8181/Peliculas/Ruido.mental.2023.720p-dual-lat.mkv
-
-#EXTINF:-1, EL ESTRANGULADOR DE BOSTON
-http://45.179.164.59:8181/Peliculas/El.estrangulador.de.Boston.2023.720p-dual-lat.mkv
-
-#EXTINF:-1, LA EXORCISTA
-http://tv.nousiptv.com:8080/movie/AR10429/10429B/1154253.mkv
-
-#EXTINF:-1, LA ELEFANTA DEL MAGO
-http://45.179.164.59:8181/Peliculas/La.elefanta.del.mago.2023.720p-dual-lat.mkv
