@@ -87,8 +87,6 @@ http://200.115.120.1:8000/play/ca016/index.m3u8
 http://200.115.120.1:8000/play/ca093/index.m3u8
 #EXTINF:-1, TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1, Retro Music Television
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, PLUTO TV CINE ACCION
