@@ -1,1 +1,25 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://m3u-checker-api-ojzp.onrender.com/epg/latino.xml"
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" tvg-id="I223.110960.schedulesdirect.org", DISCOVERY SCIENCE
+http://190.119.43.180:8000/play/a0v5/index.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25743_dark_360w_270h.png" tvg-id="I430.25793.schedulesdirect.org", DISCOVERY ID
+http://190.119.43.180:8000/play/a0s6/index.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" tvg-id="I225.65940.schedulesdirect.org", DISCOVERY THEATER OP 2
+http://190.119.43.180:8000/play/a0wt/index.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" tvg-id="I514.16707.schedulesdirect.org", NICKELODEO
+http://190.119.43.180:8000/play/a0w1/index.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79589_dark_360w_270h.png" tvg-id="I229.79589.schedulesdirect.org", DISNEY CHANNEL OP 2
+http://190.119.43.180:8000/play/a0zt/index.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" tvg-id="I399.75537.schedulesdirect.org", HBO PLUS OP2
+http://190.119.43.180:8000/play/a0zg/index.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" tvg-id="I354.77617.schedulesdirect.org", FX HD
+http://190.119.43.180:8000/play/a0vv/index.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16499_dark_360w_270h.png" tvg-id="I581.62982.schedulesdirect.org", SPACE OP2
+http://190.119.43.180:8000/play/a0vu/index.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" tvg-id="I25.90852.schedulesdirect.org", AMC
+http://190.119.43.180:8000/play/a0l2/index.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" tvg-id="I1008.70314.schedulesdirect.org", CINEMAX
+http://190.119.43.180:8000/play/a0wk/index.m3u8
+#EXTINF:-1, SYFY
+http://190.119.43.180:8000/play/a0wf/index.m3u8
+#EXTINF:-1, ESPN SPORTS PREMIUM
+http://190.119.43.180:8000/play/a0yz/index.m3u8
