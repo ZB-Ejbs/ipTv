@@ -17,9 +17,9 @@ http://190.119.43.180:8000/play/a0vv/index.m3u8
 http://190.119.43.180:8000/play/a0vu/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" tvg-id="I25.90852.schedulesdirect.org", AMC
 http://190.119.43.180:8000/play/a0l2/index.m3u8
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" tvg-id="I173.101730.schedulesdirect.org", CINEMAX
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" tvg-id="I1008.70314.schedulesdirect.org", CINEMAX
 http://190.119.43.180:8000/play/a0wk/index.m3u8
 #EXTINF:-1, SYFY
 http://190.119.43.180:8000/play/a0wf/index.m3u8
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" tvg-id="I287.19158.schedulesdirect.org", ESPN SPORTS PREMIUM
+#EXTINF:-1, ESPN SPORTS PREMIUM
 http://190.119.43.180:8000/play/a0yz/index.m3u8
