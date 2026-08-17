@@ -23,3 +23,9 @@ http://190.119.43.180:8000/play/a0wk/index.m3u8
 http://190.119.43.180:8000/play/a0wf/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ESPN SPORTS PREMIUM
 http://190.119.43.180:8000/play/a0yz/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STEREO MASS" tvg-logo="https://cdn-radiotime-logos.tunein.com/s83949g.png" group-title="RADIO",STEREO MASS
+http://go.iptvhn.net:25461/7619/7619/1355
+#EXTINF:-1 tvg-id="" tvg-name="STEREO EXITOS  88.1 FM" tvg-logo="http://www.stereoexitos.hn/images/STEREO-EXITOS.png" group-title="RADIO",STEREO EXITOS  88.1 FM
+http://go.iptvhn.net:25461/7619/7619/1367
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET  4K" tvg-logo="https://4.bp.blogspot.com/-Q7cfaXgyF3Q/Ugmw-hPb7BI/AAAAAAAAAAk/hso2_DhjGO0/s1600/Animal_Planet_Europe_2003.png" group-title="+ CANALES HD",ANIMAL PLANET  4K
+http://go.iptvhn.net:25461/7619/7619/1343
