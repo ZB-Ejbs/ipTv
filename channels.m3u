@@ -23,3 +23,17 @@ http://190.119.43.180:8000/play/a0wk/index.m3u8
 http://190.119.43.180:8000/play/a0wf/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ESPN SPORTS PREMIUM
 http://190.119.43.180:8000/play/a0yz/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/2048px-Canal_de_las_Estrellas_logo.svg.png" group-title="ENTRETENIMIENTO HD",CANAL DE LAS ESTRELLAS
+http://go.iptvhn.net:25461/7619/7619/1833
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO  MIAMI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="ENTRETENIMIENTO HD",TELEMUNDO  MIAMI HD
+http://go.iptvhn.net:25461/7619/7619/1840
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1930px-Logo_Azteca_7_2011.svg.png" group-title="ENTRETENIMIENTO HD",AZTECA 7
+http://go.iptvhn.net:25461/7619/7619/2331
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION MIAMI (R)" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn-v2/images/radio-stations/miami/univision-23-fl.png" group-title="ENTRETENIMIENTO HD",UNIVISION MIAMI (R)
+http://go.iptvhn.net:25461/7619/7619/2501
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO (R)" tvg-logo="https://scontent.fsap4-1.fna.fbcdn.net/v/t39.30808-6/482321809_1156781679240677_188749599417830973_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=jJ8K4rfcz7YQ7kNvwFAEm8h&_nc_oc=AdlwMkm9qUGzMEbJW6S4HHSQnJkpYkwak3cOx5WkoatBT_1y-ia2Eyij0M34QitZ_Rs&_nc_zt=23&_nc_ht=scontent.fsap4-1.fna&_nc_gid=73HrLxN4Ijwf8j_9V_Cptg&oh=00_AfhYWdjC62AmAD1N4cfD5Y-FJtN-zqNG4iSC5W5IaeG11w&oe=690D2552" group-title="ENTRETENIMIENTO HD",AZTECA UNO (R)
+http://go.iptvhn.net:25461/7619/7619/2507
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 MEXICO " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Canal_5_M%C3%A9xico_2002.svg/revision/latest/scale-to-width-down/200?cb=20210515040853&path-prefix=es" group-title="ENTRETENIMIENTO HD",CANAL 5 MEXICO
+http://go.iptvhn.net:25461/7619/7619/2640
+#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX MEXICO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Bandamax_2010.png/revision/latest/scale-to-width-down/250?cb=20150806182241" group-title="ENTRETENIMIENTO HD",BANDAMAX MEXICO
+http://go.iptvhn.net:25461/7619/7619/3430
